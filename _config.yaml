@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: ManskeLabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: ManskeLab
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@ManskeLabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: smanske@ucalgary.ca
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: ManskeLabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: ManskeLabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: ManskeLabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  google-scholar: D7igaGAAAAAJ
+  github: ManskeLab
+  twitter: ManskeLab
 
 ### jekyll settings
 
