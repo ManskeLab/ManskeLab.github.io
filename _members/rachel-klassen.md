@@ -1,7 +1,7 @@
 ---
 name: Rachel Klassen
 image: images/headshots/Rachel.jpg
-description: PhD Student
+description: Master's Student
 role: phd
 links:
   
