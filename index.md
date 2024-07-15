@@ -1,17 +1,15 @@
 ---
 ---
 
-# Muculoskeletal Imaging Lab
+# Investigating Musculoskeletal Health Through Cutting-Edge Imaging
 
-
+Welcome to the Manske Lab! We are an interdisciplinary research group in the McCaig Institute for Bone and Joint Health comprised of people with backgrounds in health sciences, kinesiology, and engineering. Our lab uses advanced imaging techniques from the Centre for Mobility and Joint Health and the micro-CT lab to study bone and its contribution to musculoskeletal disease.
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Welcome to the Manske Lab! We are an interdisciplinary research group in the McCaig Institute for Bone and Joint Health comprised of people with backgrounds in health sciences, kinesiology, and engineering. Our lab uses advanced imaging techniques from the Centre for Mobility and Joint Health and the micro-CT lab to study bone and its contribution to musculoskeletal disease.
+We have several ongoing research projects utilizing MR, CT, and ultrasound imaging approaches. We collaborate with rheumatologists, endocrinologists, orthopaedic surgeons, radiologists, and engineers.
 
 {%
   include button.html
@@ -34,7 +32,7 @@ Welcome to the Manske Lab! We are an interdisciplinary research group in the McC
 
 {% capture text %}
 
-We are always looking for participants for our studies. Follow the link to learn more. 
+We are always looking for participants in our studies to get imaged. Participants include both healthy individuals and those suffering from musculoskeletal diseases. Follow the link to learn more. 
 
 {%
   include button.html
@@ -77,14 +75,12 @@ We have a diverse group of staff and students within our lab. Learn more about o
   image="images/lab_group.png"
   link="team"
   title="Our Team"
-  flip=true
-  style="bare"
   text=text
 %}
 
 {% capture text %}
 
-If you're interested in joining our lab or want to learn more about our research, send us an email.
+We are always looking for enthusiastic and motivated undergraduate students, graduate students, and post-doctoral fellows to join our lab. If you're interested in learning more about our work or would like to join our team, send us an email!
 
 {%
   include button.html
@@ -99,8 +95,8 @@ If you're interested in joining our lab or want to learn more about our research
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/reachout.png"
   link="team"
-  title="Our Team"
+  title="Reach Out"
   text=text
 %}
