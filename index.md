@@ -15,7 +15,7 @@ Welcome to the Manske Lab! We are an interdisciplinary research group in the McC
 
 {%
   include button.html
-  link="research"
+  link="https://scholar.google.com/citations?hl=en&user=D7igaGAAAAAJ"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -26,7 +26,7 @@ Welcome to the Manske Lab! We are an interdisciplinary research group in the McC
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +34,12 @@ Welcome to the Manske Lab! We are an interdisciplinary research group in the McC
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are always looking for participants for our studies. Follow the link to learn more. 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="participate"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/recruit.png"
+  link="participate"
+  title="Participate In Our Studies"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a diverse group of staff and students within our lab. Learn more about our current and former members in the link below.
 
 {%
   include button.html
   link="team"
   text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/lab_group.png"
+  link="team"
+  title="Our Team"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+If you're interested in joining our lab or want to learn more about our research, send us an email.
+
+{%
+  include button.html
+  link="contact"
+  text="Contact us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
