@@ -74,19 +74,19 @@ search:
 
 bachelor:
   icon: fa-solid fa-graduation-cap
-  text: BSc $VALUE
+  text: $VALUE
 
 masters:
   icon: fa-solid fa-graduation-cap
-  text: MSc $VALUE
+  text: $VALUE
 
 doctorate:
   icon: fa-solid fa-graduation-cap
-  text: PhD $VALUE
+  text: $VALUE
 
 pdf:
   icon: fa-solid fa-glasses
-  text: PDF $VALUE
+  text: $VALUE
 
 orcid:
   icon: fa-brands fa-orcid

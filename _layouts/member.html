@@ -8,8 +8,12 @@ layout: default
 
 <div>
   {% for edu in page.education %}
-    {{ edu }}
+    {% assign type = site.data.types[edu[0]] %}
+    {% include icon.html icon=type.icon %}
+    {{ edu[1] }}<br>
   {% endfor %}
+</div>
+<div>
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}

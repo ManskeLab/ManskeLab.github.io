@@ -4,7 +4,7 @@ image: images/headshots/Sarah.jpg
 description: Principal Investigator
 role: pi
 education:
-  bsc: Kinesiology, Simon Fraser University
+  bachelor: Kinesiology, Simon Fraser University
 links:
   email: smanske@gmail.com
   twitter: ManSKeLab
