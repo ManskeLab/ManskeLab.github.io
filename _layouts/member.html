@@ -9,8 +9,17 @@ layout: default
 <div>
   {% for edu in page.education %}
     {% assign type = site.data.types[edu[0]] %}
+    <a
+      class="education"
+      data-style="{{ include.style }}"
+      {% if include.flip %}
+        data-flip
+      {% endif %}
+      aria-label="{{ button.tooltip | default: type.icon | default: "button" }}"
+    >
     {% include icon.html icon=type.icon %}
     {{ edu[1] }}<br>
+    </a>
   {% endfor %}
 </div>
 <div>
