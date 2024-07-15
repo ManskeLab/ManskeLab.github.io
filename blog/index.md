@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 4
+  order: 1
   tooltip: Musings and miscellany
 ---
 

@@ -72,6 +72,22 @@ search:
 
 # social media
 
+bachelor:
+  icon: fa-solid fa-graduation-cap
+  text: BSc $VALUE
+
+masters:
+  icon: fa-solid fa-graduation-cap
+  text: MSc $VALUE
+
+doctorate:
+  icon: fa-solid fa-graduation-cap
+  text: PhD $VALUE
+
+pdf:
+  icon: fa-solid fa-glasses
+  text: PDF $VALUE
+
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID

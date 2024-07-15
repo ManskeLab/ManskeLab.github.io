@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Welcome to the Manske Lab! We are an interdisciplinary research group in the McCaig Institute for Bone and Joint Health comprised of people with backgrounds in health sciences, kinesiology, and engineering. Our lab uses advanced imaging techniques from the Centre for Mobility and Joint Health and the micro-CT lab to study bone and its contribution to musculoskeletal disease.
 
 {%
   include button.html

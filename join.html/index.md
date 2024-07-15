@@ -1,9 +1,10 @@
 ---
-title: Contact
+title: Join
 nav:
-  order: 6
-  tooltip: Email, address, and location
+  order: 5
+  tooltip: Join our team
 ---
+
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
