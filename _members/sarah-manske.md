@@ -1,7 +1,7 @@
 ---
 name: Dr. Sarah Manske
 image: images/headshots/Sarah.jpg
-description: Principal Investigator
+description: Assistant Professor, Department of Radiology
 role: pi
 education:
   bachelor: Kinesiology, Simon Fraser University

@@ -3,7 +3,7 @@
 
 # Investigating Musculoskeletal Health Through Cutting-Edge Imaging
 
-Welcome to the Manske Lab! We are an interdisciplinary research group in the McCaig Institute for Bone and Joint Health comprised of people with backgrounds in health sciences, kinesiology, and engineering. Our lab uses advanced imaging techniques from the Centre for Mobility and Joint Health and the micro-CT lab to study bone and its contribution to musculoskeletal disease.
+Welcome to the Manske Lab! We are an interdisciplinary research group in the [McCaig Institute for Bone and Joint Health](https://mccaig.ucalgary.ca) at the [Cumming School of Medicine, University of Calgary](https://cumming.ucalgary.ca). We are comprised of people with backgrounds in health sciences, kinesiology, and engineering. Our lab uses advanced imaging techniques from the [Centre for Mobility and Joint Health](https://mccaig.ucalgary.ca/research/mojo) to study bone and its contribution to musculoskeletal disease.
 
 {% include section.html %}
 
@@ -98,5 +98,7 @@ We are always looking for enthusiastic and motivated undergraduate students, gra
   image="images/reachout.png"
   link="team"
   title="Reach Out"
+  flip=true
+  style="bare"
   text=text
 %}
