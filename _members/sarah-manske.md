@@ -7,7 +7,7 @@ education:
   bachelor: BSc Kinesiology, Simon Fraser University
   masters: MSc Experimental Medicine, University of British Columbia 
   doctorate: PhD Biomedical Engineering, University of Calgary
-  pdf: Stony Brook University
+  pdf: PDF Stony Brook University
 links:
   email: smanske@gmail.com
   twitter: ManSKeLab
