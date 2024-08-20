@@ -1,7 +1,8 @@
 ---
 name: Samantha Leech
 image: images/headshots/Sam.jpg
-description: PhD Student
+description: PhD
+role: alumni
 group: alum
 links:
   
