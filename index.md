@@ -25,7 +25,7 @@ We have several ongoing research projects utilizing MR, CT, and ultrasound imagi
 {%
   include feature.html
   image="images/research.png"
-  link="research"
+  link="projects"
   title="Our Research"
   text=text
 %}

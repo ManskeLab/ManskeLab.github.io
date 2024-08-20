@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 1
+  order: 0
   tooltip: Lab news
 ---
 
