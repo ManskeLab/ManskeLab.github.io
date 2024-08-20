@@ -7,18 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p style="text-align: center;">Explore what our lab is currently working on!</p>
+<p style="text-align: center;">Please note some repositories are still private but might be made public in the future.</p>
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Graduate Student Projects
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: grad" %}
 
 {% include section.html %}
 

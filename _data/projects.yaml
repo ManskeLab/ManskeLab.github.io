@@ -1,47 +1,29 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: CBCT Super-Resolution
+  subtitle: Yousif's MSc
+  group: grad_projects
+  image: images/super_resolution.png
+  link: https://github.com/ManskeLab/Super_resolution_CBCT
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+
+- title: CT Hand Atlas Construction
+  subtitle: Yousif's MSc
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/atlas.png
+  link: https://github.com/ManskeLab/CT_Atlas_Construction
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+- title: Automatic CT Erosion Measurement
+  subtitle: Yousif's MSc
+  image: images/erosion.png
+  link: https://github.com/ManskeLab
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
+- title: Bone Analysis Module (BAM)
+  subtitle: 3D Slicer add-on
+  image: images/BAM.jpg
+  link: https://github.com/ManskeLab/Bone_Analysis_Modules
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
