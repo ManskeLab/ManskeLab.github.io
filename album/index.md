@@ -5,23 +5,50 @@ nav:
   tooltip: Lab photos
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-microscope" %}Lab Album
 
 {% include section.html %}
 
-## Highlighted
+{% capture col1 %}
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
-{% include section.html %}
+{% endcapture %}
 
-## All
+{% capture col2 %}
 
-{% include search-box.html %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
-{% include search-info.html %}
+{% endcapture %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
+
+{% capture col1 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
