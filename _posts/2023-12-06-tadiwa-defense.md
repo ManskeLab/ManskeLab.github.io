@@ -1,5 +1,5 @@
 ---
-title: Tadiwa Waungana his MSc!
+title: Tadiwa Waungana Defends his MSc!
 image: images/blog/tadiwa.png
 author: Manske Lab
 tags:
