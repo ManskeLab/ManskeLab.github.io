@@ -20,8 +20,8 @@ nav:
 
 {% include list.html component="card" data="projects" filters="group: grad_projects" %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " style="small" %} -->
