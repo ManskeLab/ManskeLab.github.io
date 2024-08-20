@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-To contact Dr. Manske, please reach out through the follwing email.
+<p style="text-align: center;">To contact Dr. Manske, please reach out through the follwing email.</p>
 
 {%
   include button.html
