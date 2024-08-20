@@ -8,7 +8,7 @@
 
 - title: CT Hand Atlas Construction
   subtitle: Yousif's MSc
-  group: featured
+  group: grad_projects
   image: images/atlas.png
   link: https://github.com/ManskeLab/CT_Atlas_Construction
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -16,6 +16,7 @@
 
 - title: Automatic CT Erosion Measurement
   subtitle: Yousif's MSc
+  group: grad_projects
   image: images/erosion.png
   link: https://github.com/ManskeLab
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -23,6 +24,7 @@
 
 - title: Bone Analysis Module (BAM)
   subtitle: 3D Slicer add-on
+  group: grad_projects
   image: images/BAM.jpg
   link: https://github.com/ManskeLab/Bone_Analysis_Modules
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

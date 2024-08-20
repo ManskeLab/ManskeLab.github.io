@@ -18,7 +18,7 @@ nav:
 
 ## Graduate Student Projects
 
-{% include list.html component="card" data="projects" filters="group: grad" %}
+{% include list.html component="card" data="projects" filters="group: grad_projects" %}
 
 {% include section.html %}
 
