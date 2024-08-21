@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: News
 nav:
   order: 0
   tooltip: Lab news
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 <p style="text-align: center;">News and updates from the Manske lab.</p>
 
