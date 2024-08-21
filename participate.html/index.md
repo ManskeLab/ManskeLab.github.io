@@ -1,7 +1,7 @@
 ---
 title: Participate
 nav:
-  order: 4
+  order: 5
   tooltip: Participate in our studies
 ---
 

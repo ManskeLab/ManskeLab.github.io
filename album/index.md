@@ -1,7 +1,7 @@
 ---
 title: Album
 nav:
-  order: 3
+  order: 4
   tooltip: Lab photos
 ---
 
