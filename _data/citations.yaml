@@ -180,4 +180,8 @@
   link: https://doi.org/gt7h5x
   orcid: 0000-0003-0888-9556
   plugin: orcid.py
+<<<<<<< HEAD
   file: orcid.yaml
+=======
+  file: orcid.yaml
+>>>>>>> 3503ab2 (publications adding pubmed)
