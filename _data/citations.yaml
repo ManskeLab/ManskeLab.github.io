@@ -171,25 +171,25 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-# - id: pubmed:37870316
-#   title: Erosion Identification in Metacarpophalangeal Joints in Rheumatoid Arthritis
-#     using High-Resolution Peripheral Quantitative Computed Tomography.
-#   authors:
-#   - Yousif Al-Khoury
-#   - Stephanie Finzel
-#   - Camille Figueiredo
-#   - Andrew J Burghardt
-#   - Kathryn S Stok
-#   - Lai-Shan Tam
-#   - Isaac Cheng
-#   - Justin J Tse
-#   - Sarah L Manske
-#   publisher: 'Journal of visualized experiments : JoVE'
-#   date: '2023-10-06'
-#   link: https://www.ncbi.nlm.nih.gov/pubmed/37870316
-#   term: Manske SL[Author]
-#   plugin: pubmed.py
-#   file: pubmed.yaml
+- id: pubmed:37870316
+  title: Erosion Identification in Metacarpophalangeal Joints in Rheumatoid Arthritis
+    using High-Resolution Peripheral Quantitative Computed Tomography.
+  authors:
+  - 'Yousif Al-Khoury'
+  - Stephanie Finzel
+  - Camille Figueiredo
+  - Andrew J Burghardt
+  - Kathryn S Stok
+  - 'Lai-Shan Tam'
+  - Isaac Cheng
+  - Justin J Tse
+  - Sarah L Manske
+  publisher: 'Journal of visualized experiments : JoVE'
+  date: '2023-10-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37870316
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:37568935
   title: Addressing Challenges of Opportunistic Computed Tomography Bone Mineral Density
     Analysis.
