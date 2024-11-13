@@ -6,11 +6,6 @@
   link: 
   description: Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics in load-bearing conditions. This will improve understanding of how the carpal bones move under load, such as in a push-up position. He is developing a workflow to measure carpal alignment and kinematics on WBCT-derived 3D bone models, and evaluating how these measurements compare between healthy individuals, patients with scapholunate ligament injuries, and individuals that have undergone scapholunate surgical reconstruction.
 
-Atlas of Articular Cartilage: Structural and functional comparison across species
-2:16
-This project involves developing an atlas of articular cartilage properties obtained from 8 different animals using a universal test method across species. The atlas is developed through the use of biomechanical testing for obtaining properties such as cartilage thickness and stiffness. Additionally, the differences in cartilage morphology are also evaluated through histological analysis using safranin-o and immunofluorescent staining. Understanding the differences in cartilage properties across common osteoarthritis animal models is critical to our potential of developing novel treatments for the disease. This project provides a central location for osteoarthritis researchers to obtain cartilage properties for different animal models utilized for their research needs.
-
-
 - title: CBCT Super-Resolution
   subtitle: Yousif's MSc
   group: grad_projects
@@ -38,11 +33,3 @@ This project involves developing an atlas of articular cartilage properties obta
   image: images/projects/bam.png
   link: https://github.com/ManskeLab/Bone_Analysis_Modules
   description: Add-on developed by the Manske Lab for image processing and analysis of bone in CT images.
-
-  Muscle loss and weakness in critical care: an interdisciplinary approach to investigate the time course and nature of muscle weakness during and after a critical care stay
-When patients are in the intensive care unit (ICU), their muscles can weaken, causing long-lasting problems with muscle strength and daily activities. We do not fully understand why this happens, and measuring muscle strength in the ICU is challenging. The goal of our CIHR-funded project is to figure out how, when and why this muscle weakness occurs and how it affects people after leaving the ICU. We will use computed tomography (CT) scans that were already acquired while patients were in the ICU to:
- 1)   Establish the risk factors and time course of muscle atrophy in the ICU. Using the multiple clinically acquired CT scans (often > 2 per patient), we have a novel opportunity to characterize the rate of abdominal muscle atrophy and factors associated with muscle atrophy during the ICU stay.
-2)   Determine how ICU-induced muscle loss is related to long-term recovery and physical function. Our novel data measuring muscle cross-sectional area indicates that ICU-induced muscle loss is associated with ICU mortality. However, whether CT assessment of ICU-associated muscle atrophy is related to long-term outcomes is unknown.
-3) Advance CT imaging measures of muscle fat infiltration and fibrosis using internal calibration to measure muscle density.
-In addition to atrophy, muscle infiltration with adipose and fibrosis is frequently implicated in loss of muscle function. Whether clinical-quality CT scans can accurately capture muscle density changes is unknown.
-This research will help us understand why muscles weaken without needing an invasive biopsy. Using CT scans, we can understand when, how and in whom muscles weaken in the ICU to better target rehabilitation strategies.
