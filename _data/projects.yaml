@@ -3,7 +3,7 @@
   subtitle: Justen's MSc
   group: grad_projects
   image: images/projects/super_resolution.png
-  link: 
+  link: projects/krasl
   description: Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics in load-bearing conditions. This will improve understanding of how the carpal bones move under load, such as in a push-up position. He is developing a workflow to measure carpal alignment and kinematics on WBCT-derived 3D bone models, and evaluating how these measurements compare between healthy individuals, patients with scapholunate ligament injuries, and individuals that have undergone scapholunate surgical reconstruction.
 
 - title: CBCT Super-Resolution
