@@ -1,5 +1,9 @@
 ---
 title: KRASL
+header: images/background.jpg
+footer: images/background.jpg
+header-dark: false
+footer-dark: false
 redirect_from:
   - krasl
 ---
