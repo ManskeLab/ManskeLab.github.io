@@ -13,6 +13,13 @@
   link: https://github.com/ManskeLab/Super_resolution_CBCT
   description: A Cycle-GAN model was trained to denoise and improve resolution of CBCT knuckle joint images using a Cycle-GAN model that is trained to find the translation between CBCT and HR-pQCT images. 
 
+- title: Atlas of Articular Cartilage
+  subtitle: Justen's MSc
+  group: grad_projects
+  image: images/projects/super_resolution.png
+  link: projects/krasl
+  description: Structural and functional comparison across species
+
 - title: CT Hand Atlas Construction
   subtitle: Yousif's MSc
   group: grad_projects
