@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39548810
+  title: "Subchondral Bone Degeneration and Pathology 3-15\u2009Years Following Ankle\
+    \ Sprain Injury in Adolescent Sport."
+  authors:
+  - Kirsten N Bott
+  - Michael T Kuczynski
+  - Oluwatoyosi B A Owoeye
+  - Jacob L Jaremko
+  - Koren E Roach
+  - Jean-Michel Galarneau
+  - Carolyn A Emery
+  - Sarah L Manske
+  publisher: Foot & ankle international
+  date: '2024-11-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39548810
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39547428
+  title: Detecting New Erosions in Rheumatoid Arthritis over One Year - Radiography
+    and High-Resolution Computed Tomography of Finger Joints.
+  authors:
+  - Josephine Therkildsen
+  - Rasmus Klose-Jensen
+  - "Mathias H\xE4nel"
+  - Bente L Langdahl
+  - Jesper S Thomsen
+  - Sarah L Manske
+  - Kresten K Keller
+  - Ellen-Margrethe Hauge
+  publisher: Joint bone spine
+  date: '2024-11-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39547428
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39365940
   title: The Quantification of Bone Mineral Density Using Photon Counting Computed
     Tomography and its Implications for Detecting Bone Remodelling.
