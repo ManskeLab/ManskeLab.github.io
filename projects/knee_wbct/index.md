@@ -17,8 +17,8 @@ redirect_from:
 ## Research Images
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="images/image1.jpg" alt="3D Carpal Model" style="width: 45%; height: auto; border-radius: 5px;">
-  <img src="images/image2.jpg" alt="Kinematics Analysis" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="images/projects/krasl/img1.png" alt="3D Carpal Model" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="images/projects/krasl/img4.png" alt="Kinematics Analysis" style="width: 45%; height: auto; border-radius: 5px;">
 </div>
 
 ---
