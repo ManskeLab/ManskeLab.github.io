@@ -1,42 +1,49 @@
 
 - title: Assessing Carpal Alignment and Kinematics Using WBCT
-  subtitle: Justen's MSc
+  subtitle: ""
   group: grad_projects
-  image: images/projects/super_resolution.png
+  image: images/projects/krasl/icon.png
   link: projects/krasl
-  description: Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics in load-bearing conditions. This will improve understanding of how the carpal bones move under load, such as in a push-up position. He is developing a workflow to measure carpal alignment and kinematics on WBCT-derived 3D bone models, and evaluating how these measurements compare between healthy individuals, patients with scapholunate ligament injuries, and individuals that have undergone scapholunate surgical reconstruction.
+  description: Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics in load-bearing conditions.
 
 - title: CBCT Super-Resolution
-  subtitle: Yousif's MSc
+  subtitle: ""
   group: grad_projects
-  image: images/projects/super_resolution.png
+  image: images/projects/krasl/icon.png
   link: https://github.com/ManskeLab/Super_resolution_CBCT
   description: A Cycle-GAN model was trained to denoise and improve resolution of CBCT knuckle joint images using a Cycle-GAN model that is trained to find the translation between CBCT and HR-pQCT images. 
 
 - title: Atlas of Articular Cartilage
-  subtitle: Justen's MSc
+  subtitle: ""
   group: grad_projects
-  image: images/projects/super_resolution.png
+  image: images/projects/krasl/icon.png
   link: projects/krasl
-  description: Structural and functional comparison across species
+  description: Structural and functional comparison across 
+  
+- title: Bone Marrow Lesions Characterization in Human Knee Osteoarthritis.
+  subtitle: ""
+  group: grad_projects
+  image: images/projects/krasl/icon.png
+  link: projects/krasl
+  description: Characterizing bone marrow lesions in human knee osteoarthritis using high-resolution peripheral quantitative computed tomography, histology, and spatial transcriptomics.
 
 - title: CT Hand Atlas Construction
-  subtitle: Yousif's MSc
+  subtitle: ""
   group: grad_projects
-  image: images/projects/atlas.png
+  image: images/projects/krasl/icon.png
   link: https://github.com/ManskeLab/CT_Atlas_Construction
   description: Atlas of a hand using CBCT images that represents a healthy population. Future work will aim to develop a disease-specific probabilistic map using this atlas.
 
 - title: Automatic CT Erosion Measurement
-  subtitle: Yousif's MSc
+  subtitle: ""
   group: grad_projects
-  image: images/projects/erosion.png
+  image: images/projects/krasl/icon.png
   link: https://github.com/ManskeLab
   description: 
 
 - title: Bone Analysis Module (BAM)
   subtitle: 3D Slicer add-on
   group: grad_projects
-  image: images/projects/bam.png
+  image: images/projects/krasl/icon.png
   link: https://github.com/ManskeLab/Bone_Analysis_Modules
   description: Add-on developed by the Manske Lab for image processing and analysis of bone in CT images.
