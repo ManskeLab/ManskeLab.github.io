@@ -8,7 +8,7 @@ redirect_from:
   - krasl
 ---
 
-<p style="text-align: left;">Assessing Carpal Alignment and Kinematics Using WBCT</p>
+<h1 style="text-align: center;">Assessing Carpal Alignment and Kinematics Using WBCT</h1>
 
 {% include section.html %}
 
