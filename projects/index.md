@@ -18,4 +18,103 @@ nav:
 
 ## Graduate Student Projects
 
-{% include list.html component="feature" data="projects" filters="group: grad_projects" %}
+<!-- project 1 -->
+{% capture text %}
+
+Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics.
+
+{%
+  include button.html
+  link="projects/krasl"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/krasl/img1.png"
+  link="projects/krasl"
+  title="Assessing Carpal Alignment and Kinematics Using WBCT"
+  text=text
+%}
+
+<!-- project 2 -->
+
+{% capture text %}
+
+Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics.
+
+{%
+  include button.html
+  link="projects/krasl"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/krasl/img1.png"
+  link="projects/krasl"
+  title="Assessing Carpal Alignment and Kinematics Using WBCT"
+  text=text
+%}
+
+<!--  -->
+
+{% capture text %}
+
+Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics.
+
+{%
+  include button.html
+  link="projects/krasl"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/krasl/img1.png"
+  link="projects/krasl"
+  title="Assessing Carpal Alignment and Kinematics Using WBCT"
+  text=text
+%}
+
+<!--  -->
+
+{% capture text %}
+
+Utilizing weight-bearing computed tomography (WBCT) to evaluate carpal biomechanics.
+
+{%
+  include button.html
+  link="projects/krasl"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/krasl/img1.png"
+  link="projects/krasl"
+  title="Assessing Carpal Alignment and Kinematics Using WBCT"
+  text=text
+%}
+
+<!--  -->
