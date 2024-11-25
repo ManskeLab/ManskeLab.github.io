@@ -1,1 +1,1 @@
-Sitemap: http://manskelab.ca/sitemap.xml
+Sitemap: https://manskelab.github.io/sitemap.xml
