@@ -6,4 +6,4 @@ tags:
   - awards
 ---
 
-Congratulations Tadiwa for winning Mitacs award to travel to the University of Bologna for an internship with Dr. Fulvia Antonelli.
+Congratulations Tadiwa for winning Mitacs award to travel to the University of Bologna for an internship with Dr. Fulvia Taddei.

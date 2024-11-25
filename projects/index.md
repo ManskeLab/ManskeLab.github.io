@@ -16,8 +16,6 @@ nav:
 
 {% include section.html %}
 
-## Graduate Student Projects
-
 <!-- project 1 -->
 {% capture text %}
 
