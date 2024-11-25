@@ -6,4 +6,4 @@ tags:
   - defense
 ---
 
-Congratulations to Tadiwa Waungana for succesfully defending his PhD titled "Bone and 3D Joint Space Width Analysis in Knee Osteoarthritis using Weight Bearing CT". However, the good bye party will have to wait as Tadiwa is continuing his PhD studies in the Manske lab.
+Congratulations to Tadiwa Waungana for succesfully defending his MSc titled "Bone and 3D Joint Space Width Analysis in Knee Osteoarthritis using Weight Bearing CT". However, the good bye party will have to wait as Tadiwa is continuing his PhD studies in the Manske lab.
