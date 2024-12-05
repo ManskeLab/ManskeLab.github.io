@@ -72,20 +72,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:38793873
-  title: Adapting the Intensity Gradient for Use with Count-Based Accelerometry Data
-    in Children and Adolescents.
-  authors:
-  - Christina J Alexander
-  - Sarah L Manske
-  - W Brent Edwards
-  - Leigh Gabel
-  publisher: Sensors (Basel, Switzerland)
-  date: '2024-05-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38793873
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:38784224
   title: Evaluating high-resolution computed tomography derived 3-D joint space metrics
     of the metacarpophalangeal joints between rheumatoid arthritis and age- and sex-matched
@@ -275,24 +261,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:36251648
-  title: Internal calibration for opportunistic computed tomography muscle density
-    analysis.
-  authors:
-  - Ainsley C J Smith
-  - Justin J Tse
-  - Tadiwa H Waungana
-  - Kirsten N Bott
-  - Michael T Kuczynski
-  - Andrew S Michalski
-  - Steven K Boyd
-  - Sarah L Manske
-  publisher: PloS one
-  date: '2022-10-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36251648
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:36174928
   title: Open-source image analysis tool for the identification and quantification
     of cortical interruptions and bone erosions in high-resolution peripheral quantitative
@@ -353,22 +321,6 @@
   publisher: Investigative radiology
   date: '2022-04-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35467564
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35290479
-  title: Diagnostic accuracy of a dual-energy computed tomography-based post-processing
-    method for imaging bone marrow edema following an acute ligamentous knee injury.
-  authors:
-  - Chantal M J de Bakker
-  - Tushar Peedikayil
-  - Richard E A Walker
-  - Nathan J Neeteson
-  - Sarah L Manske
-  - Steven K Boyd
-  publisher: Skeletal radiology
-  date: '2022-03-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35290479
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -565,31 +517,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:32190559
-  title: Consensus approach for 3D joint space width of metacarpophalangeal joints
-    of rheumatoid arthritis patients using high-resolution peripheral quantitative
-    computed tomography.
-  authors:
-  - Kathryn S Stok
-  - Andrew J Burghardt
-  - Stephanie Boutroy
-  - Michiel P H Peters
-  - Sarah L Manske
-  - Vincent Stadelmann
-  - Nicolas Vilayphiou
-  - Joop P van den Bergh
-  - Piet Geusens
-  - Xiaojuan Li
-  - Hubert Marotte
-  - Bert van Rietbergen
-  - Steven K Boyd
-  - Cheryl Barnabe
-  publisher: Quantitative imaging in medicine and surgery
-  date: '2020-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32190559
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:31283044
   title: Longitudinal Effects of Acute Anterior Cruciate Ligament Tears on Peri-Articular
     Bone in Human Knees Within the First Year of Injury.
@@ -642,21 +569,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:30201250
-  title: Harmonizing finite element modelling for non-invasive strength estimation
-    by high-resolution peripheral quantitative computed tomography.
-  authors:
-  - Danielle E Whittier
-  - Sarah L Manske
-  - Douglas P Kiel
-  - Mary Bouxsein
-  - Steven K Boyd
-  publisher: Journal of biomechanics
-  date: '2018-08-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30201250
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:30115589
   title: A study of the relationship between meniscal injury and bone microarchitecture
     in ACL reconstructed knees.
@@ -696,21 +608,6 @@
   publisher: Osteoarthritis and cartilage
   date: '2018-04-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29678623
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29526780
-  title: 'Subchondral bone microarchitecture in ACL reconstructed knees of young women:
-    A comparison with contralateral and uninjured control knees.'
-  authors:
-  - Andres Kroker
-  - Jennifer L Bhatla
-  - Carolyn A Emery
-  - Sarah L Manske
-  - Steven K Boyd
-  publisher: Bone
-  date: '2018-03-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29526780
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -823,21 +720,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:25863722
-  title: 'Bilateral Asymmetry of Radius and Tibia Bone Macroarchitecture and Microarchitecture:
-    A High-Resolution Peripheral Quantitative Computed Tomography Study.'
-  authors:
-  - Erin M Hildebrandt
-  - Sarah L Manske
-  - David A Hanley
-  - Steven K Boyd
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2015-04-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25863722
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:25668404
   title: Extending Rest between Unloading Cycles Does Not Enhance Bone's Long-Term
     Recovery.
@@ -883,27 +765,6 @@
   publisher: Acta astronautica
   date: '2013-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23976804
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23125100
-  title: Assessment of the efficacy of MRI for detection of changes in bone morphology
-    in a mouse model of bone injury.
-  authors:
-  - May A Taha
-  - Sarah L Manske
-  - Erika Kristensen
-  - Jaymi T Taiani
-  - Roman Krawetz
-  - Ying Wu
-  - Dragana Ponjevic
-  - John R Matyas
-  - Steven K Boyd
-  - Derrick E Rancourt
-  - Jeff F Dunn
-  publisher: 'Journal of magnetic resonance imaging : JMRI'
-  date: '2012-11-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23125100
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -966,18 +827,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:20967431
-  title: Muscle changes can account for bone loss after botulinum toxin injection.
-  authors:
-  - Sarah L Manske
-  - Steven K Boyd
-  - Ronald F Zernicke
-  publisher: Calcified tissue international
-  date: '2010-10-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20967431
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:19853070
   title: Muscle and bone follow similar temporal patterns of recovery from muscle-induced
     disuse due to botulinum toxin injection.
@@ -1016,18 +865,6 @@
   publisher: Journal of biomechanics
   date: '2009-06-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19524929
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23015881
-  title: 'Bone health: part 1, nutrition.'
-  authors:
-  - Caeley Lorincz
-  - Sarah L Manske
-  - Ron Zernicke
-  publisher: Sports health
-  date: '2009-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23015881
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
