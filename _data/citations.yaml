@@ -19,8 +19,8 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39547428
-  title: Detecting New Erosions in Rheumatoid Arthritis over One Year - Radiography
-    and High-Resolution Computed Tomography of Finger Joints.
+  title: "Detecting new erosions in rheumatoid arthritis over one year\_-\_Radiography\
+    \ and high-resolution computed tomography of finger joints."
   authors:
   - Josephine Therkildsen
   - Rasmus Klose-Jensen
@@ -31,14 +31,14 @@
   - Kresten K Keller
   - Ellen-Margrethe Hauge
   publisher: Joint bone spine
-  date: '2024-11-13'
+  date: '2024-11-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39547428
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39365940
-  title: The Quantification of Bone Mineral Density Using Photon Counting Computed
-    Tomography and its Implications for Detecting Bone Remodelling.
+  title: The quantification of bone mineral density using photon counting computed
+    tomography and its implications for detecting bone remodeling.
   authors:
   - Jilmen Quintiens
   - Walter Coudyzer
@@ -49,7 +49,7 @@
   - G Harry van Lenthe
   publisher: 'Journal of bone and mineral research : the official journal of the American
     Society for Bone and Mineral Research'
-  date: '2024-10-04'
+  date: '2024-11-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39365940
   term: Manske SL[Author]
   plugin: pubmed.py
