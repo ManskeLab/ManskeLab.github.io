@@ -1,5 +1,67 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40075469
+  title: A theory of change for patient-initiated follow-up care in rheumatoid arthritis.
+  authors:
+  - Manuel Ester
+  - Krista White
+  - Kiran Dhiman
+  - Saania Zafar
+  - Shakeel Subdar
+  - Gabrielle L Zimmermann
+  - Alison M Hoens
+  - Sarah L Manske
+  - Glen Hazlewood
+  - Diane Lacaille
+  - Megan R W Barber
+  - Niki Panich
+  - Michelle Jung
+  - Mark G Perry
+  - Marinka Twilt
+  - Karen L Then
+  - Alexandra Charlton
+  - Claire E H Barber
+  publisher: BMC rheumatology
+  date: '2025-03-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40075469
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40032018
+  title: Accuracy and precision of segmentation and quantification of wrist bone microarchitecture
+    using photon-counting computed tomography ex vivo.
+  authors:
+  - Jilmen Quintiens
+  - Sarah L Manske
+  - Steven K Boyd
+  - Walter Coudyzer
+  - Melissa Bevers
+  - Evie Vereecke
+  - Joop van den Bergh
+  - G Harry van Lenthe
+  publisher: Bone
+  date: '2025-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40032018
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39710128
+  title: HR-pQCT measurements of changes in periarticular bone density and microarchitecture
+    one year after acute knee injury and after reconstructive surgery.
+  authors:
+  - Nathan J Neeteson
+  - Annabel R Bugbird
+  - Callie Stirling
+  - Nina Pavlovic
+  - Sarah L Manske
+  - Richard E A Walker
+  - Steven K Boyd
+  publisher: Bone
+  date: '2024-12-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39710128
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39548810
   title: "Subchondral Bone Degeneration and Pathology 3-15\u2009Years Following Ankle\
     \ Sprain Injury in Adolescent Sport."
@@ -19,8 +81,8 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39547428
-  title: Detecting New Erosions in Rheumatoid Arthritis over One Year - Radiography
-    and High-Resolution Computed Tomography of Finger Joints.
+  title: "Detecting new erosions in rheumatoid arthritis over one year\_-\_Radiography\
+    \ and high-resolution computed tomography of finger joints."
   authors:
   - Josephine Therkildsen
   - Rasmus Klose-Jensen
@@ -31,14 +93,14 @@
   - Kresten K Keller
   - Ellen-Margrethe Hauge
   publisher: Joint bone spine
-  date: '2024-11-13'
+  date: '2024-11-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39547428
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39365940
-  title: The Quantification of Bone Mineral Density Using Photon Counting Computed
-    Tomography and its Implications for Detecting Bone Remodelling.
+  title: The quantification of bone mineral density using photon counting computed
+    tomography and its implications for detecting bone remodeling.
   authors:
   - Jilmen Quintiens
   - Walter Coudyzer
@@ -49,7 +111,7 @@
   - G Harry van Lenthe
   publisher: 'Journal of bone and mineral research : the official journal of the American
     Society for Bone and Mineral Research'
-  date: '2024-10-04'
+  date: '2024-11-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39365940
   term: Manske SL[Author]
   plugin: pubmed.py
@@ -108,8 +170,8 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:38749001
-  title: Erosive Progression by High-Resolution Peripheral Quantitative Computed Tomography
-    and Conventional Radiography in Rheumatoid Arthritis.
+  title: Erosive progression by high-resolution peripheral quantitative computed tomography
+    and conventional radiography in rheumatoid arthritis.
   authors:
   - Josephine Therkildsen
   - Rasmus Klose-Jensen
@@ -121,7 +183,7 @@
   - Kresten K Keller
   - Ellen-Margrethe Hauge
   publisher: Rheumatology (Oxford, England)
-  date: '2024-05-15'
+  date: '2025-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38749001
   term: Manske SL[Author]
   plugin: pubmed.py
@@ -1226,7 +1288,7 @@
   - Peter Salat
   - Cheryl Barnabe
   - Sarah Lynn Manske
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-03-31'
   link: https://doi.org/gt7h5v
   orcid: 0000-0003-0888-9556
@@ -1245,7 +1307,7 @@
   - Peter Salat
   - Cheryl Barnabe
   - Sarah Lynn Manske
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-03-23'
   link: https://doi.org/gt7h5w
   orcid: 0000-0003-0888-9556
