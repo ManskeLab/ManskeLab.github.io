@@ -1,6 +1,6 @@
 ---
 title: Dr. Sam Defends her PhD!
-image: images/blog/sam_phd.png
+image: images/blog/leech_defense.png
 author: Manske Lab
 tags:
   - defense
