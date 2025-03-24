@@ -14,67 +14,67 @@ nav:
 {%
   include figure.html
   image="images/album/2025-01-xski_3.jpg"
-  caption="xski_3"
+  caption="Cross country ski day 2025"
 %}
 
 {%
   include figure.html
   image="images/album/2025-01-xski_1.jpg"
-  caption="xski_1"
+  caption="Cross country ski day 2025"
 %}
 
 {%
   include figure.html
   image="images/album/2024-08-symposium.jpg"
-  caption="Lab working very hard during summer student talks"
+  caption="Peak lab productivity during summer student talks"
 %}
 
 {%
   include figure.html
   image="images/album/2024-06-labhike_2.jpg"
-  caption="labhike_2"
+  caption="Lab hike 2024"
 %}
 
 {%
   include figure.html
   image="images/album/2024-04-BMEG_formal.png"
-  caption="BMEG_formal"
+  caption="BMEG spring formal 2024"
 %}
 
 {%
   include figure.html
   image="images/album/2023-12-christmas.jpg"
-  caption="christmas"
+  caption="McCaig christmas party 2023"
 %}
 
 {%
   include figure.html
   image="images/album/2023-10-justen_abbme.jpg"
-  caption="justen_abbme"
+  caption="Justen's AB-BME poster 2023"
 %}
 
 {%
   include figure.html
   image="images/album/2022-06-labhike_3.jpeg"
-  caption="labhike_3"
+  caption="Lab hike 2022"
 %}
 
 {%
   include figure.html
   image="images/album/2022-01-nacob.jpeg"
-  caption="nacob"
+  caption="Nacob 2022"
 %}
 
 {%
   include figure.html
   image="images/album/2021-01-qmski.jpeg"
-  caption="qmski"
+  caption="QMSKI 2021"
 %}
 
 {%
   include figure.html
   image="images/album/2021-01-lab_run.jpeg"
-  caption="lab_run"
+  caption="Lab run 2021"
 %}
 
 {% endcapture %}
@@ -84,61 +84,61 @@ nav:
 {%
   include figure.html
   image="images/album/2025-01-xski_2.jpg"
-  caption="xski_2"
+  caption="Cross country ski day 2025"
 %}
 
 {%
   include figure.html
   image="images/album/2024-12-christmasdoor.jpg"
-  caption="christmasdoor"
+  caption="McCaig christmas door contest 2024"
 %}
 
 {%
   include figure.html
-  image="images/album/2024-06-labhike_3.jpg"
-  caption="labhike_3"
+  image="images/album/2024-06-labhike_3.jpeg"
+  caption="Lab hike 2024"
 %}
 
 {%
   include figure.html
   image="images/album/2024-06-labhike_1.jpg"
-  caption="labhike_1"
+  caption="Lab hike 2024"
 %}
 
 {%
   include figure.html
   image="images/album/2023-12-tadiwa_defense.jpg"
-  caption="tadiwa_defense"
+  caption="Dinner after Tadiwa's defense 2023"
 %}
 
 {%
   include figure.html
   image="images/album/2023-12-christmasdoor.jpg"
-  caption="christmasdoor"
+  caption="McCaig christmas door contest 2023"
 %}
 
 {%
   include figure.html
   image="images/album/2023-01-ski.jpg"
-  caption="ski"
+  caption="Lab ski day 2023"
 %}
 
 {%
   include figure.html
   image="images/album/2022-06-labhike_2.jpeg"
-  caption="labhike_2"
+  caption="Lab hike 2022"
 %}
 
 {%
   include figure.html
   image="images/album/2021-01-ski.jpeg"
-  caption="ski"
+  caption="Lab ski day 2021"
 %}
 
 {%
   include figure.html
   image="images/album/2021-01-climbing.jpeg"
-  caption="climbing"
+  caption="Bouldering 2021"
 %}
 
 {% endcapture %}
@@ -146,23 +146,5 @@ nav:
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
