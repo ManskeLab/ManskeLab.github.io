@@ -146,5 +146,3 @@ nav:
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
