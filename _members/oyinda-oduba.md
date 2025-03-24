@@ -1,8 +1,9 @@
 ---
 name: Oyinda Oduba
 image: images/headshots/Oyinda.jpg
-description: Master's Student
-role: phd
+description: MSc 2024
+role: alumni
+group: alum
 links:
   
 ---
