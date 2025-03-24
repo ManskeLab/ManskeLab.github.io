@@ -6,5 +6,4 @@ tags:
   - achievements
 ---
 
-The Manske Lab's work on imaging joint damage after a sprained ankle was recognized by the Arthritis Society Canada to be among the top 10 arthritis research breakthroughs in 2024.
-Read the full article [here.](https://arthritis.ca/about-arthritis/arthritis-in-the-news/news/top-10-arthritis-research-breakthroughs-in-2024-funded-by-arthritis-society-canada)
+The Manske Lab's work on imaging joint damage after a sprained ankle was recognized by the Arthritis Society Canada to be among the top 10 arthritis research breakthroughs in 2024. Read the full article [here.](https://arthritis.ca/about-arthritis/arthritis-in-the-news/news/top-10-arthritis-research-breakthroughs-in-2024-funded-by-arthritis-society-canada)
