@@ -26,7 +26,7 @@ nav:
 {%
   include figure.html
   image="images/album/2024-08-symposium.jpg"
-  caption="symposium"
+  caption="Lab working very hard during summer student talks"
 %}
 
 {%
