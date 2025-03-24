@@ -1,8 +1,9 @@
 ---
 name: Rachel Klassen
 image: images/headshots/Rachel.jpg
-description: Master's Student
-role: phd
+description: MSc 2025
+role: alumni
+group: alum
 links:
   
 ---
