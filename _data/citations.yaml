@@ -1151,6 +1151,25 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1002/rco2.70004
+  title: 'Muscle Loss Is Prevalent and Severe in the ICU: An Analysis of Clinically
+    Acquired CT Images'
+  authors:
+  - "Ainsley\_C.\_J. Smith"
+  - "Brandon\_M. Hisey"
+  - "Chel\_Hee Lee"
+  - "Christopher\_J. Grant"
+  - "Richard\_E.\_A. Walker"
+  - "Kevin\_J. Solverson"
+  - "Kirsten\_N. Bott"
+  - "Christopher\_J. Doig"
+  - "Sarah\_L. Manske"
+  publisher: JCSM Communications
+  date: '2025-01-01'
+  link: https://doi.org/g9d7r8
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjae163
   title: The quantification of bone mineral density using photon counting computed
     tomography and its implications for detecting bone remodeling
