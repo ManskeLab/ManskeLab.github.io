@@ -1081,18 +1081,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:23015881
-  title: 'Bone health: part 1, nutrition.'
-  authors:
-  - Caeley Lorincz
-  - Sarah L Manske
-  - Ron Zernicke
-  publisher: Sports health
-  date: '2009-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23015881
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:18661091
   title: Cortical and trabecular bone in the femoral neck both contribute to proximal
     femur failure load prediction.
@@ -1362,7 +1350,7 @@
   - Peter Salat
   - Cheryl Barnabe
   - Sarah Lynn Manske
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2019-09-18'
   link: https://doi.org/gt7h5x
   orcid: 0000-0003-0888-9556
