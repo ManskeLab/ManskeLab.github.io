@@ -733,19 +733,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:29785933
-  title: 'A Comparison of Peripheral Imaging Technologies for Bone and Muscle Quantification:
-    A Review of Segmentation Techniques.'
-  authors:
-  - Andy Kin On Wong
-  - Sarah Lynn Manske
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2018-04-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29785933
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:29678623
   title: Differences in subchondral bone plate and cartilage thickness between women
     with anterior cruciate ligament reconstructions and uninjured controls.
@@ -1362,7 +1349,7 @@
   - Peter Salat
   - Cheryl Barnabe
   - Sarah Lynn Manske
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2019-09-18'
   link: https://doi.org/gt7h5x
   orcid: 0000-0003-0888-9556
