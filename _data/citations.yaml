@@ -733,6 +733,19 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:29785933
+  title: 'A Comparison of Peripheral Imaging Technologies for Bone and Muscle Quantification:
+    A Review of Segmentation Techniques.'
+  authors:
+  - Andy Kin On Wong
+  - Sarah Lynn Manske
+  publisher: 'Journal of clinical densitometry : the official journal of the International
+    Society for Clinical Densitometry'
+  date: '2018-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29785933
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:29678623
   title: Differences in subchondral bone plate and cartilage thickness between women
     with anterior cruciate ligament reconstructions and uninjured controls.
@@ -760,22 +773,6 @@
   publisher: Bone
   date: '2018-03-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29526780
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29363165
-  title: 'Lower Bone Density, Impaired Microarchitecture, and Strength Predict Future
-    Fragility Fracture in Postmenopausal Women: 5-Year Follow-up of the Calgary CaMos
-    Cohort.'
-  authors:
-  - Lauren A Burt
-  - Sarah L Manske
-  - David A Hanley
-  - Steven K Boyd
-  publisher: 'Journal of bone and mineral research : the official journal of the American
-    Society for Bone and Mineral Research'
-  date: '2018-01-24'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29363165
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
