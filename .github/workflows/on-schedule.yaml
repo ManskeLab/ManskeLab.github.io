@@ -18,6 +18,8 @@ jobs:
     # only run on user instance of template, not template itself
     if: github.repository != 'greenelab/lab-website-template'
     uses: ./.github/workflows/update-citations.yaml
+    secrets:
+      GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
     with:
       open-pr: true
 
