@@ -12,6 +12,7 @@ def main(entry):
     # get api key (serp api key to access google scholar)
     api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
     print(f"Using Google Scholar API key: {len(api_key)}")
+    print("hello")
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
 
