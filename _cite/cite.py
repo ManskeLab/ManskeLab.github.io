@@ -153,7 +153,10 @@ for index, source in enumerate(sources):
                 log(e, 3, "WARNING")
                 # discard source from citations
                 continue
-
+    else:
+        # Use the plugin-supplied metadata directly
+        citation = {}
+        
     # preserve fields from input source, overriding existing fields
     citation.update(source)
 
