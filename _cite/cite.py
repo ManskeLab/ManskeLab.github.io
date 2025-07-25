@@ -102,27 +102,6 @@ for plugin in plugins:
 
 log("Merging sources by id")
 
-# deduplicate sources by title and plugin priority
-merged_sources = {}
-for source in sources:
-    title = get_safe(source, "title", "").strip().lower()
-    if not title:
-        continue
-
-    plugin = get_safe(source, "plugin", "")
-    priority = PLUGIN_PRIORITY.get(plugin, 999)
-
-    if title not in merged_sources:
-        merged_sources[title] = (source, priority)
-    else:
-        existing_source, existing_priority = merged_sources[title]
-        if priority < existing_priority:
-            # Replace lower-quality source
-            merged_sources[title] = (source, priority)
-
-# extract final list of sources
-sources = [entry[0] for entry in merged_sources.values()]
-
 # merge sources with matching (non-blank) ids
 for a in range(0, len(sources)):
     a_id = get_safe(sources, f"{a}.id", "")
@@ -146,7 +125,7 @@ log("Generating citations")
 
 # list of new citations
 citations = []
-
+citation_by_title = {}
 
 # loop through compiled sources
 for index, source in enumerate(sources):
@@ -197,8 +176,20 @@ for index, source in enumerate(sources):
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))
 
-    # add new citation to list
-    citations.append(citation)
+    # store by normalized title
+    title_key = get_safe(citation, "title", "").strip().lower()
+    plugin = get_safe(citation, "plugin", "")
+    priority = PLUGIN_PRIORITY.get(plugin, 999)
+
+    # store best version of citation by title
+    if title_key in citation_by_title:
+        existing_citation, existing_priority = citation_by_title[title_key]
+        if priority < existing_priority:
+            citation_by_title[title_key] = (citation, priority)
+    else:
+        citation_by_title[title_key] = (citation, priority)
+
+citations = [entry[0] for entry in citation_by_title.values()]
 
 print("all citations:")
 print(citations)
