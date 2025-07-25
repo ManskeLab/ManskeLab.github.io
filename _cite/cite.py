@@ -177,7 +177,8 @@ for index, source in enumerate(sources):
         citation["date"] = format_date(get_safe(citation, "date", ""))
 
     # store by normalized title
-    title_key = get_safe(citation, "title", "").strip().lower()
+    title_key = get_safe(citation, "title", "")
+    title_key = title_key.strip().rstrip('.').lower()
     plugin = get_safe(citation, "plugin", "")
     priority = PLUGIN_PRIORITY.get(plugin, 999)
 
