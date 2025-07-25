@@ -8,6 +8,13 @@ from pathlib import Path
 from dotenv import load_dotenv
 from util import *
 
+PLUGIN_PRIORITY = {
+    "orcid.py": 1,
+    "pubmed.py": 2,
+    "google-scholar.py": 3,
+    "sources.py": 4  # optional catch-all fallback
+}
+
 
 # load environment variables
 load_dotenv()
@@ -95,6 +102,27 @@ for plugin in plugins:
 
 log("Merging sources by id")
 
+# deduplicate sources by title and plugin priority
+merged_sources = {}
+for source in sources:
+    title = get_safe(source, "title", "").strip().lower()
+    if not title:
+        continue
+
+    plugin = get_safe(source, "plugin", "")
+    priority = PLUGIN_PRIORITY.get(plugin, 999)
+
+    if title not in merged_sources:
+        merged_sources[title] = (source, priority)
+    else:
+        existing_source, existing_priority = merged_sources[title]
+        if priority < existing_priority:
+            # Replace lower-quality source
+            merged_sources[title] = (source, priority)
+
+# extract final list of sources
+sources = [entry[0] for entry in merged_sources.values()]
+
 # merge sources with matching (non-blank) ids
 for a in range(0, len(sources)):
     a_id = get_safe(sources, f"{a}.id", "")
@@ -136,7 +164,7 @@ for index, source in enumerate(sources):
 
     # Manubot doesn't work without an id
     plugin = get_safe(source, "plugin", "")
-    print(source)
+    # print(source)
 
     if _id and plugin != "google-scholar.py":
         log("Using Manubot to generate citation", 1)
@@ -172,6 +200,8 @@ for index, source in enumerate(sources):
     # add new citation to list
     citations.append(citation)
 
+print("all citations:")
+print(citations)
 
 log()
 
