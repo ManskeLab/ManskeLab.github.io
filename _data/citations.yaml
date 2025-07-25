@@ -1,171 +1,836 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pubmed:40075469
-  title: A theory of change for patient-initiated follow-up care in rheumatoid arthritis.
+- id: pubmed:19524929
+  title: 'During sideways falls proximal femur fractures initiate in the superolateral
+    cortex: evidence from high-speed video of simulated fractures.'
   authors:
-  - Manuel Ester
-  - Krista White
-  - Kiran Dhiman
-  - Saania Zafar
-  - Shakeel Subdar
-  - Gabrielle L Zimmermann
-  - Alison M Hoens
+  - Peter M de Bakker
   - Sarah L Manske
-  - Glen Hazlewood
-  - Diane Lacaille
-  - Megan R W Barber
-  - Niki Panich
-  - Michelle Jung
-  - Mark G Perry
-  - Marinka Twilt
-  - Karen L Then
-  - Alexandra Charlton
-  - Claire E H Barber
-  publisher: BMC rheumatology
-  date: '2025-03-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40075469
+  - Vincent Ebacher
+  - Thomas R Oxland
+  - Peter A Cripton
+  - Pierre Guy
+  publisher: Journal of biomechanics
+  date: '2009-06-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19524929
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:40032018
-  title: Accuracy and precision of segmentation and quantification of wrist bone microarchitecture
-    using photon-counting computed tomography ex vivo.
+- id: pubmed:26079995
+  title: Human trabecular bone microarchitecture can be assessed independently of
+    density with second generation HR-pQCT.
   authors:
-  - Jilmen Quintiens
   - Sarah L Manske
-  - Steven K Boyd
-  - Walter Coudyzer
-  - Melissa Bevers
-  - Evie Vereecke
-  - Joop van den Bergh
-  - G Harry van Lenthe
-  publisher: Bone
-  date: '2025-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40032018
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:39710128
-  title: HR-pQCT measurements of changes in periarticular bone density and microarchitecture
-    one year after acute knee injury and after reconstructive surgery.
-  authors:
-  - Nathan J Neeteson
-  - Annabel R Bugbird
-  - Callie Stirling
-  - Nina Pavlovic
-  - Sarah L Manske
-  - Richard E A Walker
+  - Ying Zhu
+  - Clara Sandino
   - Steven K Boyd
   publisher: Bone
-  date: '2024-12-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39710128
+  date: '2015-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26079995
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:39548810
-  title: "Subchondral Bone Degeneration and Pathology 3-15\u2009Years Following Ankle\
-    \ Sprain Injury in Adolescent Sport."
+- id: pubmed:18661091
+  title: Cortical and trabecular bone in the femoral neck both contribute to proximal
+    femur failure load prediction.
   authors:
-  - Kirsten N Bott
-  - Michael T Kuczynski
-  - Oluwatoyosi B A Owoeye
-  - Jacob L Jaremko
-  - Koren E Roach
-  - Jean-Michel Galarneau
-  - Carolyn A Emery
+  - S L Manske
+  - T Liu-Ambrose
+  - D M L Cooper
+  - S Kontulainen
+  - P Guy
+  - B B Forster
+  - H A McKay
+  publisher: 'Osteoporosis international : a journal established as result of cooperation
+    between the European Foundation for Osteoporosis and the National Osteoporosis
+    Foundation of the USA'
+  date: '2008-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18661091
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28039095
+  title: Quantitative in vivo assessment of bone microarchitecture in the human knee
+    using HR-pQCT.
+  authors:
+  - Andres Kroker
+  - Ying Zhu
   - Sarah L Manske
-  publisher: Foot & ankle international
-  date: '2024-11-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39548810
+  - Rhamona Barber
+  - Nicholas Mohtadi
+  - Steven K Boyd
+  publisher: Bone
+  date: '2016-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28039095
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:39547428
-  title: "Detecting new erosions in rheumatoid arthritis over one year\_-\_Radiography\
-    \ and high-resolution computed tomography of finger joints."
+- id: pubmed:16847586
+  title: Femoral neck cortical geometry measured with magnetic resonance imaging is
+    associated with proximal femur strength.
   authors:
-  - Josephine Therkildsen
+  - S L Manske
+  - T Liu-Ambrose
+  - P M de Bakker
+  - D Liu
+  - S Kontulainen
+  - P Guy
+  - T R Oxland
+  - H A McKay
+  publisher: 'Osteoporosis international : a journal established as result of cooperation
+    between the European Foundation for Osteoporosis and the National Osteoporosis
+    Foundation of the USA'
+  date: '2006-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16847586
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:Zph67rFs4hoC
+  title: "The estimation of second\u2010generation HR\u2010pQCT from first\u2010generation\
+    \ HR\u2010pQCT using in vivo cross\u2010calibration"
+  authors:
+  - SL Manske
+  - EM Davison
+  - LA Burt
+  - DA Raymond
+  - SK Boyd
+  publisher: Journal of Bone and Mineral Research 32 (7), 1514-1524, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:Zph67rFs4hoC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:17268944
+  title: 'Tibial geometry is associated with failure load ex vivo: a MRI, pQCT and
+    DXA study.'
+  authors:
+  - D Liu
+  - S L Manske
+  - S A Kontulainen
+  - C Tang
+  - P Guy
+  - T R Oxland
+  - H A McKay
+  publisher: 'Osteoporosis international : a journal established as result of cooperation
+    between the European Foundation for Osteoporosis and the National Osteoporosis
+    Foundation of the USA'
+  date: '2007-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17268944
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19853070
+  title: Muscle and bone follow similar temporal patterns of recovery from muscle-induced
+    disuse due to botulinum toxin injection.
+  authors:
+  - Sarah L Manske
+  - Steven K Boyd
+  - Ronald F Zernicke
+  publisher: Bone
+  date: '2009-10-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19853070
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23074384
+  title: 'Separating Fluid Shear Stress from Acceleration during Vibrations in Vitro:
+    Identification of Mechanical Signals Modulating the Cellular Response.'
+  authors:
+  - Gunes Uzer
+  - Sarah L Manske
+  - M Ete Chan
+  - Fu-Pen Chiang
+  - Clinton T Rubin
+  - Mary D Frame
+  - Stefan Judex
+  publisher: Cellular and molecular bioengineering
+  date: '2012-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23074384
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:qjMakFHDy7sC
+  title: 'Analyzing cortical bone cross-sectional geometry by peripheral QCT: comparison
+    with bone histomorphometry'
+  authors:
+  - S Kontulainen
+  - D Liu
+  - S Manske
+  - M Jamieson
+  - "H Siev\xE4nen"
+  - H McKay
+  publisher: Journal of Clinical Densitometry 10 (1), 86-92, 2007
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:qjMakFHDy7sC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:RHpTSmoSYBkC
+  title: "Lower bone density, impaired microarchitecture, and strength predict future\
+    \ fragility fracture in postmenopausal women: 5\u2010year follow\u2010up of the\
+    \ Calgary CaMos cohort"
+  authors:
+  - LA Burt
+  - SL Manske
+  - DA Hanley
+  - SK Boyd
+  publisher: Journal of Bone and Mineral Research 33 (4), 589-597, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:RHpTSmoSYBkC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:32766262
+  title: High-Resolution Peripheral Quantitative Computed Tomography for Bone Evaluation
+    in Inflammatory Rheumatic Disease.
+  authors:
   - Rasmus Klose-Jensen
-  - "Mathias H\xE4nel"
-  - Bente L Langdahl
-  - Jesper S Thomsen
-  - Sarah L Manske
-  - Kresten K Keller
-  - Ellen-Margrethe Hauge
-  publisher: Joint bone spine
-  date: '2024-11-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39547428
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:39365940
-  title: The quantification of bone mineral density using photon counting computed
-    tomography and its implications for detecting bone remodeling.
-  authors:
-  - Jilmen Quintiens
-  - Walter Coudyzer
-  - Melissa Bevers
-  - Evie Vereecke
-  - Joop P van den Bergh
-  - Sarah L Manske
-  - G Harry van Lenthe
-  publisher: 'Journal of bone and mineral research : the official journal of the American
-    Society for Bone and Mineral Research'
-  date: '2024-11-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39365940
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38897133
-  title: Accuracy of Volumetric Bone Mineral Density Measurement in Weight Bearing,
-    Cone Beam Computed Tomography.
-  authors:
-  - Tadiwa H Waungana
-  - Keven Qiu
   - Justin J Tse
-  - Donald D Anderson
-  - Carolyn A Emery
-  - Steven K Boyd
-  - Sarah L Manske
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2024-06-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38897133
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38793873
-  title: Adapting the Intensity Gradient for Use with Count-Based Accelerometry Data
-    in Children and Adolescents.
-  authors:
-  - Christina J Alexander
-  - Sarah L Manske
-  - W Brent Edwards
-  - Leigh Gabel
-  publisher: Sensors (Basel, Switzerland)
-  date: '2024-05-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38793873
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38784224
-  title: Evaluating high-resolution computed tomography derived 3-D joint space metrics
-    of the metacarpophalangeal joints between rheumatoid arthritis and age- and sex-matched
-    control participants.
-  authors:
-  - Justin J Tse
-  - Dani Contreras
-  - Peter Salat
-  - Claire E H Barber
-  - Glen S Hazlewood
+  - Kresten Krarup Keller
   - Cheryl Barnabe
-  - Chris Penney
-  - Ahmed Ibrahem
-  - Dianne Mosher
+  - Andrew J Burghardt
+  - Stephanie Finzel
+  - Lai-Shan Tam
+  - Ellen-Margrethe Hauge
+  - Kathryn S Stok
   - Sarah L Manske
   publisher: Frontiers in medicine
-  date: '2024-05-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38784224
+  date: '2020-07-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32766262
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30201250
+  title: Harmonizing finite element modelling for non-invasive strength estimation
+    by high-resolution peripheral quantitative computed tomography.
+  authors:
+  - Danielle E Whittier
+  - Sarah L Manske
+  - Douglas P Kiel
+  - Mary Bouxsein
+  - Steven K Boyd
+  publisher: Journal of biomechanics
+  date: '2018-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30201250
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23015881
+  title: 'Bone health: part 1, nutrition.'
+  authors:
+  - Caeley Lorincz
+  - Sarah L Manske
+  - Ron Zernicke
+  publisher: Sports health
+  date: '2009-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23015881
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:NaGl4SEjCO4C
+  title: "Longitudinal effects of acute anterior cruciate ligament tears on peri\u2010\
+    articular bone in human knees within the first year of injury"
+  authors:
+  - A Kroker
+  - BA Besler
+  - JL Bhatla
+  - M Shtil
+  - P Salat
+  - N Mohtadi
+  - RE Walker
+  - '...'
+  publisher: "Journal of Orthopaedic Research\xAE 37 (11), 2325-2336, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:NaGl4SEjCO4C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:29526780
+  title: 'Subchondral bone microarchitecture in ACL reconstructed knees of young women:
+    A comparison with contralateral and uninjured control knees.'
+  authors:
+  - Andres Kroker
+  - Jennifer L Bhatla
+  - Carolyn A Emery
+  - Sarah L Manske
+  - Steven K Boyd
+  publisher: Bone
+  date: '2018-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29526780
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24780879
+  title: Embryonic stem cell therapy improves bone quality in a model of impaired
+    fracture healing in the mouse; tracked temporally using in vivo micro-CT.
+  authors:
+  - J T Taiani
+  - H R Buie
+  - G M Campbell
+  - S L Manske
+  - R J Krawetz
+  - D E Rancourt
+  - S K Boyd
+  - J R Matyas
+  publisher: Bone
+  date: '2014-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24780879
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:IjCSPb-OGe4C
+  title: Clinical tools to evaluate bone strength
+  authors:
+  - SL Manske
+  - HM Macdonald
+  - KK Nishiyama
+  - SK Boyd
+  - HA McKay
+  publisher: Clinical reviews in bone and mineral metabolism 8 (3), 122-134, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:IjCSPb-OGe4C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:23015892
+  title: 'Bone health: part 2, physical activity.'
+  authors:
+  - Sarah L Manske
+  - Caeley R Lorincz
+  - Ron F Zernicke
+  publisher: Sports health
+  date: '2009-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23015892
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29678623
+  title: Differences in subchondral bone plate and cartilage thickness between women
+    with anterior cruciate ligament reconstructions and uninjured controls.
+  authors:
+  - J L Bhatla
+  - A Kroker
+  - S L Manske
+  - C A Emery
+  - S K Boyd
+  publisher: Osteoarthritis and cartilage
+  date: '2018-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29678623
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21186027
+  title: Vertical ground reaction forces diminish in mice after botulinum toxin injection.
+  authors:
+  - Sarah L Manske
+  - Steven K Boyd
+  - Ronald F Zernicke
+  publisher: Journal of biomechanics
+  date: '2010-12-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21186027
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22590551
+  title: High-frequency, low-magnitude vibration does not prevent bone loss resulting
+    from muscle disuse in mice following botulinum toxin injection.
+  authors:
+  - Sarah L Manske
+  - Craig A Good
+  - Ronald F Zernicke
+  - Steven K Boyd
+  publisher: PloS one
+  date: '2012-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22590551
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32190559
+  title: Consensus approach for 3D joint space width of metacarpophalangeal joints
+    of rheumatoid arthritis patients using high-resolution peripheral quantitative
+    computed tomography.
+  authors:
+  - Kathryn S Stok
+  - Andrew J Burghardt
+  - Stephanie Boutroy
+  - Michiel P H Peters
+  - Sarah L Manske
+  - Vincent Stadelmann
+  - Nicolas Vilayphiou
+  - Joop P van den Bergh
+  - Piet Geusens
+  - Xiaojuan Li
+  - Hubert Marotte
+  - Bert van Rietbergen
+  - Steven K Boyd
+  - Cheryl Barnabe
+  publisher: Quantitative imaging in medicine and surgery
+  date: '2020-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32190559
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20967431
+  title: Muscle changes can account for bone loss after botulinum toxin injection.
+  authors:
+  - Sarah L Manske
+  - Steven K Boyd
+  - Ronald F Zernicke
+  publisher: Calcified tissue international
+  date: '2010-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20967431
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.21203/rs.2.14575/v3
+  title: The Utility of Multi-Stack Alignment and 3D Longitudinal Image Registration
+    to Assess Bone Remodeling in Rheumatoid Arthritis Patients from Second Generation
+    HR-pQCT Scans
+  authors:
+  - Scott C Brunet
+  - Michael T Kuczynski
+  - Jennifer L Bhatla
+  - Sophie Lemay
+  - Yves Pauchard
+  - Peter Salat
+  - Cheryl Barnabe
+  - Sarah Lynn Manske
+  publisher: Springer Science and Business Media LLC
+  date: '2020-03-31'
+  link: https://doi.org/gt7h5v
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pubmed:25863722
+  title: 'Bilateral Asymmetry of Radius and Tibia Bone Macroarchitecture and Microarchitecture:
+    A High-Resolution Peripheral Quantitative Computed Tomography Study.'
+  authors:
+  - Erin M Hildebrandt
+  - Sarah L Manske
+  - David A Hanley
+  - Steven K Boyd
+  publisher: 'Journal of clinical densitometry : the official journal of the International
+    Society for Clinical Densitometry'
+  date: '2015-04-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25863722
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22119485
+  title: Skim milk powder enhances trabecular bone architecture compared with casein
+    or whey in diet-induced obese rats.
+  authors:
+  - Aviv Fried
+  - Sarah L Manske
+  - Lindsay K Eller
+  - Caeley Lorincz
+  - Raylene A Reimer
+  - Ronald F Zernicke
+  publisher: Nutrition (Burbank, Los Angeles County, Calif.)
+  date: '2011-11-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22119485
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28874773
+  title: Cortical and trabecular morphology is altered in the limb bones of mice artificially
+    selected for faster skeletal growth.
+  authors:
+  - Saira Farooq
+  - Shannon Leussink
+  - Leah M Sparrow
+  - Marta Marchini
+  - Hayley M Britz
+  - Sarah L Manske
+  - Campbell Rolian
+  publisher: Scientific reports
+  date: '2017-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28874773
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.1007/s11914-021-00699-3
+  title: Advancements in Osteoporosis Imaging, Screening, and Study of Disease Etiology
+  authors:
+  - Justin J. Tse
+  - Ainsley C. J. Smith
+  - Michael T. Kuczynski
+  - Daphne A. Kaketsis
+  - Sarah L. Manske
+  publisher: Current Osteoporosis Reports
+  date: '2021-07-22'
+  link: https://doi.org/gmmtnn
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pubmed:29785933
+  title: 'A Comparison of Peripheral Imaging Technologies for Bone and Muscle Quantification:
+    A Review of Segmentation Techniques.'
+  authors:
+  - Andy Kin On Wong
+  - Sarah Lynn Manske
+  publisher: 'Journal of clinical densitometry : the official journal of the International
+    Society for Clinical Densitometry'
+  date: '2018-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29785933
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.3899/jrheum.180870
+  title: 'The SPECTRA Collaboration OMERACT Working Group: Construct Validity of Joint
+    Space Outcomes with High-resolution Peripheral Quantitative Computed Tomography'
+  authors:
+  - Sarah L. Manske
+  - Scott C. Brunet
+  - Stephanie Finzel
+  - Kathryn S. Stok
+  - Philip G. Conaghan
+  - Steven K. Boyd
+  - Cheryl Barnabe
+  publisher: The Journal of Rheumatology
+  date: '2019-01-15'
+  link: https://doi.org/ggn6xg
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pubmed:23125100
+  title: Assessment of the efficacy of MRI for detection of changes in bone morphology
+    in a mouse model of bone injury.
+  authors:
+  - May A Taha
+  - Sarah L Manske
+  - Erika Kristensen
+  - Jaymi T Taiani
+  - Roman Krawetz
+  - Ying Wu
+  - Dragana Ponjevic
+  - John R Matyas
+  - Steven K Boyd
+  - Derrick E Rancourt
+  - Jeff F Dunn
+  publisher: 'Journal of magnetic resonance imaging : JMRI'
+  date: '2012-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23125100
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:rO6llkc54NcC
+  title: "A quantitative assessment of dual energy computed tomography\u2010based\
+    \ material decomposition for imaging bone marrow edema associated with acute knee\
+    \ injury"
+  authors:
+  - CMJ de Bakker
+  - REA Walker
+  - BA Besler
+  - JJ Tse
+  - SL Manske
+  - CR Martin
+  - '...'
+  publisher: Medical physics 48 (4), 1792-1803, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:rO6llkc54NcC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:30115589
+  title: A study of the relationship between meniscal injury and bone microarchitecture
+    in ACL reconstructed knees.
+  authors:
+  - Andres Kroker
+  - Sarah L Manske
+  - Nicholas Mohtadi
+  - Steven K Boyd
+  publisher: The Knee
+  date: '2018-08-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30115589
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34353138
+  title: 'Health-Related Outcomes 3-15 Years Following Ankle Sprain Injury in Youth
+    Sport: What Does the Future Hold?'
+  authors:
+  - Oluwatoyosi B A Owoeye
+  - Jackie L Whittaker
+  - Clodagh M Toomey
+  - "Anu M R\xE4is\xE4nen"
+  - Jacob L Jaremko
+  - Lisa C Carlesso
+  - Sarah L Manske
+  - Carolyn A Emery
+  publisher: Foot & ankle international
+  date: '2021-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34353138
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32896669
+  title: 'Bone changes in early inflammatory arthritis assessed with High-Resolution
+    peripheral Quantitative Computed Tomography (HR-pQCT): A 12-month cohort study.'
+  authors:
+  - Scott Cameron Brunet
+  - Stephanie Finzel
+  - Klaus Engelke
+  - Steven Kyle Boyd
+  - Cheryl Barnabe
+  - Sarah Lynn Manske
+  publisher: Joint bone spine
+  date: '2020-09-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32896669
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27698109
+  title: Determining Metacarpophalangeal Flexion Angle Tolerance for Reliable Volumetric
+    Joint Space Measurements by High-resolution Peripheral Quantitative Computed Tomography.
+  authors:
+  - Stephanie Tom
+  - Mark Frayne
+  - Sarah L Manske
+  - Andrew J Burghardt
+  - Kathryn S Stok
+  - Steven K Boyd
+  - Cheryl Barnabe
+  publisher: The Journal of rheumatology
+  date: '2016-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27698109
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:b0M2c_1WBrUC
+  title: 'Four-dimensional computed tomography: musculoskeletal applications'
+  authors:
+  - MT Wong
+  - C Wiens
+  - M Kuczynski
+  - S Manske
+  - PS Schneider
+  publisher: Canadian Journal of Surgery 65 (3), E388, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:b0M2c_1WBrUC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:35895080
+  title: Hip Fractures in Older Adults Are Associated With the Low Density Bone Phenotype
+    and Heterogeneous Deterioration of Bone Microarchitecture.
+  authors:
+  - Danielle E Whittier
+  - Sarah L Manske
+  - Emma Billington
+  - Richard Ea Walker
+  - Prism S Schneider
+  - Lauren A Burt
+  - David A Hanley
+  - Steven K Boyd
+  publisher: 'Journal of bone and mineral research : the official journal of the American
+    Society for Bone and Mineral Research'
+  date: '2022-08-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35895080
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:MXK_kJrjxJIC
+  title: Cartilage imaging of a rabbit knee using dual-energy X-ray microscopy and
+    1.0 T and 9.4 T magnetic resonance imaging
+  authors:
+  - Y Zhu
+  - SL Manske
+  - SK Boyd
+  publisher: Journal of Orthopaedic Translation 3 (4), 212-218, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:MXK_kJrjxJIC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:30658879
+  title: The Correction of Systematic Error due to Plaster and Fiberglass Casts on
+    HR-pQCT Bone Parameters Measured In Vivo at the Distal Radius.
+  authors:
+  - Danielle E Whittier
+  - Sarah L Manske
+  - Steven K Boyd
+  - Prism S Schneider
+  publisher: 'Journal of clinical densitometry : the official journal of the International
+    Society for Clinical Densitometry'
+  date: '2018-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30658879
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:yD5IFk8b50cC
+  title: "Independent changes in bone mineralized and marrow soft tissues following\
+    \ acute knee injury require dual-energy or high-resolution computed tomography\
+    \ for accurate assessment \u2026"
+  authors:
+  - CMJ de Bakker
+  - NK Knowles
+  - REA Walker
+  - SL Manske
+  - SK Boyd
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials 127, 105091,
+    2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:yD5IFk8b50cC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:36251648
+  title: Internal calibration for opportunistic computed tomography muscle density
+    analysis.
+  authors:
+  - Ainsley C J Smith
+  - Justin J Tse
+  - Tadiwa H Waungana
+  - Kirsten N Bott
+  - Michael T Kuczynski
+  - Andrew S Michalski
+  - Steven K Boyd
+  - Sarah L Manske
+  publisher: PloS one
+  date: '2022-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36251648
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35467564
+  title: Assessing the Sensitivity of Dual-Energy Computed Tomography 3-Material Decomposition
+    for the Detection of Gout.
+  authors:
+  - Justin J Tse
+  - Douglas A Kondro
+  - Michael T Kuczynski
+  - Yves Pauchard
+  - Andrea Veljkovic
+  - David W Holdsworth
+  - Viviane Frasson
+  - Sarah L Manske
+  - Paul MacMullan
+  - Peter Salat
+  publisher: Investigative radiology
+  date: '2022-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35467564
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.3899/jrheum.191391
+  title: Reliability and Change in Erosion Measurements by High-resolution Peripheral
+    Quantitative Computed Tomography in a Longitudinal Dataset of Rheumatoid Arthritis
+    Patients
+  authors:
+  - Stephanie Finzel
+  - Sarah L. Manske
+  - Cheryl C.M. Barnabe
+  - Andrew J. Burghardt
+  - Hubert Marotte
+  - Andrea Scharmga
+  - Ellen-Margrethe Hauge
+  - Roland Chapurlat
+  - Klaus Engelke
+  - Xiaojuan Li
+  - Bente C.J. van Teeffelen
+  - Philip G. Conaghan
+  - Kathryn S. Stok
+  publisher: The Journal of Rheumatology
+  date: '2020-09-15'
+  link: https://doi.org/gt7h5t
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pubmed:23976804
+  title: Increasing the Number of Unloading/Reambulation Cycles does not Adversely
+    Impact Body Composition and Lumbar Bone Mineral Density but Reduces Tissue Sensitivity.
+  authors:
+  - Shikha Gupta
+  - Sarah L Manske
+  - Stefan Judex
+  publisher: Acta astronautica
+  date: '2013-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23976804
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37568935
+  title: Addressing Challenges of Opportunistic Computed Tomography Bone Mineral Density
+    Analysis.
+  authors:
+  - Kirsten N Bott
+  - Bryn E Matheson
+  - Ainsley C J Smith
+  - Justin J Tse
+  - Steven K Boyd
+  - Sarah L Manske
+  publisher: Diagnostics (Basel, Switzerland)
+  date: '2023-08-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37568935
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:xtRiw3GOFMkC
+  title: "Open-source image analysis tool for the identification and quantification\
+    \ of cortical interruptions and bone erosions in high-resolution peripheral quantitative\
+    \ computed \u2026"
+  authors:
+  - M Zhao
+  - JT Justin
+  - MT Kuczynski
+  - SC Brunet
+  - R Yan
+  - K Engelke
+  - M Peters
+  - '...'
+  publisher: Bone 165, 116571, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:xtRiw3GOFMkC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:35290479
+  title: Diagnostic accuracy of a dual-energy computed tomography-based post-processing
+    method for imaging bone marrow edema following an acute ligamentous knee injury.
+  authors:
+  - Chantal M J de Bakker
+  - Tushar Peedikayil
+  - Richard E A Walker
+  - Nathan J Neeteson
+  - Sarah L Manske
+  - Steven K Boyd
+  publisher: Skeletal radiology
+  date: '2022-03-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35290479
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33102498
+  title: Multi-Modal Imaging to Assess the Interaction Between Inflammation and Bone
+    Damage Progression in Inflammatory Arthritis.
+  authors:
+  - Justin J Tse
+  - Scott C Brunet
+  - Peter Salat
+  - Glen S Hazlewood
+  - Cheryl Barnabe
+  - Sarah L Manske
+  publisher: Frontiers in medicine
+  date: '2020-09-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33102498
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33775211
+  title: Heterogenous bone response to biologic DMARD therapies in rheumatoid arthritis
+    patients and their relationship to functional indices.
+  authors:
+  - S C Brunet
+  - J J Tse
+  - M T Kuczynski
+  - K Engelke
+  - S K Boyd
+  - C Barnabe
+  - S L Manske
+  publisher: Scandinavian journal of rheumatology
+  date: '2021-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33775211
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -188,55 +853,23 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:38630884
-  title: 'Letter to the Editor regarding "Opportunistic screening with CT: comparison
-    of phantomless BMD calibration methods".'
+- id: doi:10.1093/jbmr/zjae163
+  title: The quantification of bone mineral density using photon counting computed
+    tomography and its implications for detecting bone remodeling
   authors:
-  - Steven K Boyd
+  - Jilmen Quintiens
+  - Walter Coudyzer
+  - Melissa Bevers
+  - Evie Vereecke
+  - Joop P van den Bergh
   - Sarah L Manske
-  - Bryn Matheson
-  - Ainsley Smith
-  - Kirsten Bott
-  publisher: 'Journal of bone and mineral research : the official journal of the American
-    Society for Bone and Mineral Research'
-  date: '2024-03-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38630884
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38490667
-  title: An Environmental Scan and Appraisal of Patient Online Resources for Managing
-    Rheumatoid Arthritis Flares.
-  authors:
-  - Shakeel Subdar
-  - Alison M Hoens
-  - Krista White
-  - Nicole M S Hartfeld
-  - Kiran Dhiman
-  - Keeva Duffey
-  - Claire E Heath
-  - Gisele Lamoureux
-  - Christine Graveline
-  - Eileen Davidson
-  - Glen Hazlewood
-  - Diane Lacaille
-  - Elena Lopatina
-  - Megan R W Barber
-  - Karen L Then
-  - Trafford Crump
-  - Saania Zafar
-  - Sarah L Manske
-  - Alexandra Charlton
-  - Kelly Osinski
-  - Aurore Fifi-Mah
-  - Dianne Mosher
-  - Claire E H Barber
-  publisher: The Journal of rheumatology
-  date: '2024-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38490667
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  - G Harry van Lenthe
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-10-04'
+  link: https://doi.org/g7dt4t
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pubmed:38302163
   title: 'Investigating the Influence of Patient Eligibility Characteristics on the
     Number of Deferrable Rheumatologist Visits: Planning for a Patient-Initiated Follow-Up
@@ -264,6 +897,20 @@
   publisher: The Journal of rheumatology
   date: '2024-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38302163
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34084552
+  title: Locomotory behaviour of early tetrapods from Blue Beach, Nova Scotia, revealed
+    by novel microanatomical analysis.
+  authors:
+  - Kendra I Lennie
+  - Sarah L Manske
+  - Chris F Mansky
+  - Jason S Anderson
+  publisher: Royal Society open science
+  date: '2021-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34084552
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -306,19 +953,733 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:37568935
-  title: Addressing Challenges of Opportunistic Computed Tomography Bone Mineral Density
-    Analysis.
+- id: D7igaGAAAAAJ:1sJd4Hv_s6UC
+  title: Analysis of hand joint space morphology in women and men with hereditary
+    hemochromatosis
+  authors:
+  - U Heilmeier
+  - AJ Burghardt
+  - JJ Tse
+  - P Kapoor
+  - KS Stok
+  - S Manske
+  - RE Voll
+  - '...'
+  publisher: Calcified Tissue International 112 (4), 440-451, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:1sJd4Hv_s6UC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:UebtZRa9Y70C
+  title: Investigating the role of bone microarchitecture in early osteoarthritis
+    using new in vivo 3D high-resolution peripheral quantitative computed tomography
+  authors:
+  - A Kroker
+  - SL Manske
+  - Y Zhu
+  - SK Boyd
+  publisher: Osteoarthritis and Cartilage 23, A239, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:UebtZRa9Y70C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:38490667
+  title: An Environmental Scan and Appraisal of Patient Online Resources for Managing
+    Rheumatoid Arthritis Flares.
+  authors:
+  - Shakeel Subdar
+  - Alison M Hoens
+  - Krista White
+  - Nicole M S Hartfeld
+  - Kiran Dhiman
+  - Keeva Duffey
+  - Claire E Heath
+  - Gisele Lamoureux
+  - Christine Graveline
+  - Eileen Davidson
+  - Glen Hazlewood
+  - Diane Lacaille
+  - Elena Lopatina
+  - Megan R W Barber
+  - Karen L Then
+  - Trafford Crump
+  - Saania Zafar
+  - Sarah L Manske
+  - Alexandra Charlton
+  - Kelly Osinski
+  - Aurore Fifi-Mah
+  - Dianne Mosher
+  - Claire E H Barber
+  publisher: The Journal of rheumatology
+  date: '2024-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38490667
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:SP6oXDckpogC
+  title: 'ORMIR_XCT: A Python package for high resolution peripheral quantitative
+    computed tomography image processing'
+  authors:
+  - MT Kuczynski
+  - NJ Neeteson
+  - KS Stok
+  - AJ Burghardt
+  - MAE Hernandez
+  - '...'
+  publisher: arXiv preprint arXiv:2309.04602, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:SP6oXDckpogC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:J_g5lzvAfSwC
+  title: 'Bone changes assessed with High-Resolution peripheral Quantitative Computed
+    Tomography (HR-pQCT) in early inflammatory arthritis: a 12-month cohort study'
+  authors:
+  - SC Brunet
+  - S Finzel
+  - K Engelke
+  - SK Boyd
+  - C Barnabe
+  - SL Manske
+  publisher: medRxiv, 2019.12. 20.19015537, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:J_g5lzvAfSwC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:JV2RwH3_ST0C
+  title: "Assessment of the elastic properties of human vertebral trabecular bone\
+    \ using computational mechanical tests and x-ray microtomography\u2014a subvolume\
+    \ analysis"
+  authors:
+  - AMH Silva
+  - SK Boyd
+  - SL Manske
+  - JM Alves
+  - J de Carvalho
+  publisher: Biomedical Physics & Engineering Express 5 (4), 045031, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:JV2RwH3_ST0C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:0EnyYjriUFMC
+  title: "Extending Rest between Unloading Cycles Does Not Enhance Bone\u2019s Long-Term\
+    \ Recovery"
+  authors:
+  - SL Manske
+  - S Vijayaraghavan
+  - A Tuthill
+  - O Brutus
+  - J Yang
+  - S Gupta
+  - '...'
+  publisher: Med Sci Sports Exerc 47 (10), 2191-200, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:0EnyYjriUFMC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:ULOm3_A8WrAC
+  title: Upper extremity injuries
+  authors:
+  - RF Zernicke
+  - WC Whiting
+  - SL Manske
+  publisher: Routledge Handbook of Biomechanics and Human Movement Science, 397-410,
+    2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:ULOm3_A8WrAC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:4TOpqqG69KYC
+  title: Magnetic resonance imaging as an instrument to assess the association between
+    femoral neck bone geometry and strength of the proximal femur
+  authors:
+  - SL Manske
+  publisher: University of British Columbia, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:4TOpqqG69KYC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:IWHjjKOFINEC
+  title: Accuracy and reliability of MRI to measure human bone geometry
+  authors:
+  - SL Manske
+  - S Kontulainen
+  - D Liu
+  - K Whittal
+  - T Oxland
+  - HA McKay
+  publisher: "5th Combined Meeting of the Orthopaedic Research Societies of Canada,\
+    \ USA \u2026, 2004"
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:IWHjjKOFINEC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:40032018
+  title: Accuracy and precision of segmentation and quantification of wrist bone microarchitecture
+    using photon-counting computed tomography ex vivo.
+  authors:
+  - Jilmen Quintiens
+  - Sarah L Manske
+  - Steven K Boyd
+  - Walter Coudyzer
+  - Melissa Bevers
+  - Evie Vereecke
+  - Joop van den Bergh
+  - G Harry van Lenthe
+  publisher: Bone
+  date: '2025-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40032018
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39710128
+  title: HR-pQCT measurements of changes in periarticular bone density and microarchitecture
+    one year after acute knee injury and after reconstructive surgery.
+  authors:
+  - Nathan J Neeteson
+  - Annabel R Bugbird
+  - Callie Stirling
+  - Nina Pavlovic
+  - Sarah L Manske
+  - Richard E A Walker
+  - Steven K Boyd
+  publisher: Bone
+  date: '2024-12-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39710128
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:1qzjygNMrQYC
+  title: "Detecting new erosions in rheumatoid arthritis over one year\u2013Radiography\
+    \ and high-resolution computed tomography of finger joints"
+  authors:
+  - J Therkildsen
+  - R Klose-Jensen
+  - "M H\xE4nel"
+  - BL Langdahl
+  - JS Thomsen
+  - '...'
+  publisher: Joint Bone Spine 92 (1), 105812, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:1qzjygNMrQYC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:K3LRdlH-MEoC
+  title: Subchondral Bone Degeneration and Pathology 3-15 Years Following Ankle Sprain
+    Injury in Adolescent Sport
+  authors:
+  - KN Bott
+  - MT Kuczynski
+  - OBA Owoeye
+  - JL Jaremko
+  - KE Roach
+  - '...'
+  publisher: Foot & Ankle International 46 (1), 19-28, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:K3LRdlH-MEoC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:5ugPr518TE4C
+  title: Trabecular bone morphometry using photon counting computed tomography
+  authors:
+  - J Quintiens
+  - SL Manske
+  - SK Boyd
+  - W Coudyzer
+  publisher: "Annual Meeting of the European Society of Biomechanics (ESB), Date:\
+    \ 2024/06 \u2026, 2024"
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:5ugPr518TE4C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1016/j.jocd.2024.101504
+  title: Accuracy of Volumetric Bone Mineral Density Measurement in Weight Bearing,
+    Cone Beam Computed Tomography
+  authors:
+  - Tadiwa H. Waungana
+  - Keven Qiu
+  - Justin J. Tse
+  - Donald D. Anderson
+  - Carolyn A. Emery
+  - Steven K. Boyd
+  - Sarah L. Manske
+  publisher: Journal of Clinical Densitometry
+  date: '2024-07-01'
+  link: https://doi.org/gt5tks
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: D7igaGAAAAAJ:KxtntwgDAa4C
+  title: Demographic, pain, and quality of life factors in unilateral and bilateral
+    total knee arthroplasty
+  authors:
+  - SA Leech
+  - A Khaira
+  - S Epp
+  - G Schneider
+  - J Werle
+  - R Ng
+  - AD Harris
+  - '...'
+  publisher: The Journal of Science and Medicine 5 (1), 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:KxtntwgDAa4C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:38793873
+  title: Adapting the Intensity Gradient for Use with Count-Based Accelerometry Data
+    in Children and Adolescents.
+  authors:
+  - Christina J Alexander
+  - Sarah L Manske
+  - W Brent Edwards
+  - Leigh Gabel
+  publisher: Sensors (Basel, Switzerland)
+  date: '2024-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38793873
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:8AbLer7MMksC
+  title: The use of clinical photon counting CT in three dimensional joint space analysis
+    of the wrist
+  authors:
+  - J Quintiens
+  - M Kuczynski
+  - S Manske
+  - G van Lenthe
+  - W Coudyzer
+  - '...'
+  publisher: 'ASBMR 2023, Date: 2023/10/13-2023/10/16, Location: Vancouver, Canada,
+    2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:8AbLer7MMksC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:NMxIlDl6LWMC
+  title: Joint repair while initiating biologic therapy in Rheumatoid Arthritis
+  authors:
+  - S Brunet
+  publisher: 2018 ACR/ARHP Annual Meeting, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:NMxIlDl6LWMC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:kNdYIx-mwKoC
+  title: 'Optimal Hand Position for Reliable Volumetric Joint Space Width Measurements
+    Using High-Resolution Peripheral Quantitative Computed Tomography.: 2146'
+  authors:
+  - C Barnabe
+  - S Manske
+  - B Jorgenson
+  - SK Boyd
+  publisher: Arthritis & Rheumatology 66, S938-S939, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:kNdYIx-mwKoC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:3fE2CSJIrl8C
+  title: 'Evaluation of Primary Elbow Osteoarthritis using High-Resolution Peripheral
+    Quantitative Computed Tomography: A Pilot Study'
+  authors:
+  - K Archibold
+  - S Manske
+  - K Hildebrand
+  - S Boyd
+  publisher: Journal of Undergraduate Research in Alberta 4 (1), 1-1, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:3fE2CSJIrl8C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:M3ejUd6NZC8C
+  title: What is the bilateral asymmetry of radius and tibia bone microarchitecture
+    by HR-pQCT?.
+  authors:
+  - E Hildebrandt
+  - S Manske
+  - D Hanley
+  - S Boyd
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 29, S220-S220, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:M3ejUd6NZC8C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:_kc_bZDykSQC
+  title: High resolution imaging of bone microarchitecture in the human appendicular
+    skeleton
+  authors:
+  - S Boyd
+  - S Manske
+  - L Burt
+  - B Jorgenson
+  - Y Zhu
+  - E Hildebrandt
+  - D Hanley
+  publisher: Journal of Orthopaedic Translation 2 (4), 201-202, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:_kc_bZDykSQC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:YOwf2qJgpHMC
+  title: Differences in bone morphology in male rats selectively bred for high or
+    low aerobic capacity
+  authors:
+  - SL Manske
+  - LG Koch
+  - SL Britton
+  - SK Boyd
+  - RT Hepple
+  - RF Zernicke
+  publisher: Transactions of North American Congress of Biomechanics, 2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:YOwf2qJgpHMC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:qxL8FJ1GzNcC
+  title: Posterior cortical BMC in the femoral neck predicts proximal femur failure
+    load
+  authors:
+  - SL Manske
+  - DML Cooper
+  - T Liu-Ambrose
+  - P Guy
+  - HA McKay
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 22, S479-S479, 2007
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:qxL8FJ1GzNcC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:5nxA0vEk-isC
+  title: Dairy protein and calcium effects on bone structure and strength
+  authors:
+  - A Fried
+  - SL Manske
+  - C Lorincz
+  - LK Eller
+  - RA Reimer
+  - RF Zernicke
+  publisher: Journal of Biomechanics 40 (2), S373, 2007
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:5nxA0vEk-isC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:KlAtU1dfN6UC
+  title: Femoral neck and trochanteric cortical area are significant predictors of
+    proximal femur failure load.
+  authors:
+  - DML Cooler
+  - SL Manske
+  - TY Liu-Ambrose
+  - P Guy
+  - HA McKay
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 21, S355-S355, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:KlAtU1dfN6UC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:mB3voiENLucC
+  title: '63 Effects of a 16-month school based intervention on physical activity
+    and cardiovascular fitness: Action Schools! BC'
+  authors:
+  - K Reed
+  - S Manske
+  - D Warburton
+  - H Macdonald
+  - H McKay
+  publisher: Journal of Science and Medicine in Sport 8, 42, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:mB3voiENLucC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:-f6ydRqryjwC
+  title: '150 Fitness levels of Canadian children are 30% lower than 23 years ago:
+    a retrospective comparison'
+  authors:
+  - K Reed
+  - S Manske
+  - D Warburton
+  - H McKay
+  publisher: Journal of Science and Medicine in Sport 8, 86, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:-f6ydRqryjwC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:8k81kl-MbHgC
+  title: 'Sexual dimorphism in cortical bone characteristics across puberty: 20-month
+    pQCT study of the tibial shaft.'
+  authors:
+  - S Kontulainen
+  - S Manske
+  - K Khan
+  - H McKay
+  - H Macdonald
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 19, S109-S109, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:8k81kl-MbHgC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:LjlpjdlvIbIC
+  title: Improving metatarsal orientation estimates with weight bearing computed tomography
+  authors:
+  - CR Firminger
+  - SL Manske
+  - WB Edwards
+  - MJ Asmussen
+  publisher: Footwear Science 17 (sup1), S104-S105, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:LjlpjdlvIbIC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:N5tVd3kTz84C
+  title: 'Appointments by Choice: An Implementation Pilot Study for Patient-Initiated
+    Follow-Up Care in Rheumatoid Arthritis'
+  authors:
+  - M Ester
+  - K Dhiman
+  - A Rebutoc
+  - A Charlton
+  - K White
+  - G Hazlewood
+  - '...'
+  publisher: The Journal of Rheumatology 52 (Suppl 2), 103-104, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:N5tVd3kTz84C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:WqliGbK-hY8C
+  title: Atlas Construction and Validation Using Cone-Beam Computed Tomography Images
+    of Healthy Adult Human Hands
+  authors:
+  - Y Al-Khoury
+  - A Addeh
+  - BK Mezgebo
+  - ME MacDonald
+  - SL Manske
+  publisher: 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI),
+    1-5, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:WqliGbK-hY8C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: pubmed:40075469
+  title: A theory of change for patient-initiated follow-up care in rheumatoid arthritis.
+  authors:
+  - Manuel Ester
+  - Krista White
+  - Kiran Dhiman
+  - Saania Zafar
+  - Shakeel Subdar
+  - Gabrielle L Zimmermann
+  - Alison M Hoens
+  - Sarah L Manske
+  - Glen Hazlewood
+  - Diane Lacaille
+  - Megan R W Barber
+  - Niki Panich
+  - Michelle Jung
+  - Mark G Perry
+  - Marinka Twilt
+  - Karen L Then
+  - Alexandra Charlton
+  - Claire E H Barber
+  publisher: BMC rheumatology
+  date: '2025-03-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40075469
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: D7igaGAAAAAJ:VL0QpB8kHFEC
+  title: REGIONAL VARIATION IN TRAPEZIOMETACARPAL BONE MICROARCHITECTURE IN FEMALES
+    WITH OSTEOARTHRITIS USING HR-PQCT
+  authors:
+  - MT Kuczynski
+  - C Hasselaar
+  - G Dhaliwal
+  - C Hiscox
+  - NJ White
+  - SL Manske
+  publisher: Osteoarthritis Imaging 5, 100299, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:VL0QpB8kHFEC
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:ye4kPcJQO24C
+  title: 'LONGITUDINAL PROGRESSION OF TRAUMATIC BONE MARROW LESIONS FOLLOWING ANTERIOR
+    CRUCIATE LIGAMENT INJURY: ASSOCIATIONS WITH KNEE PAIN AND CONCOMITANT INJURIES'
+  authors:
+  - CE Stirling
+  - N Pavlovic
+  - SL Manske
+  - REA Walker
+  - SK Boyd
+  publisher: Osteoarthritis Imaging 5, 100323, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:ye4kPcJQO24C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1002/rco2.70004
+  title: 'Muscle Loss Is Prevalent and Severe in the ICU: An Analysis of Clinically
+    Acquired CT Images'
+  authors:
+  - "Ainsley\_C.\_J. Smith"
+  - "Brandon\_M. Hisey"
+  - "Chel\_Hee Lee"
+  - "Christopher\_J. Grant"
+  - "Richard\_E.\_A. Walker"
+  - "Kevin\_J. Solverson"
+  - "Kirsten\_N. Bott"
+  - "Christopher\_J. Doig"
+  - "Sarah\_L. Manske"
+  publisher: JCSM Communications
+  date: '2025-01-01'
+  link: https://doi.org/g9d7r8
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: D7igaGAAAAAJ:eMMeJKvmdy0C
+  title: Investigating the Link Between Antiepileptic Drugs and Bone Remodeling
+  authors:
+  - AA Ardebili
+  - SL Manske
+  - WB Edwards
+  - R Krawetz
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 39, 264-264, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:eMMeJKvmdy0C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: D7igaGAAAAAJ:WA5NYHcadZ8C
+  title: Examination of cartilage mechanical properties and the bone-cartilage junction
+    across species
+  authors:
+  - O Oduba
+  - R Krawetz
+  - SL Manske
+  publisher: JOURNAL OF BONE AND MINERAL RESEARCH 39, 133-133, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D7igaGAAAAAJ&pagesize=100&citation_for_view=D7igaGAAAAAJ:WA5NYHcadZ8C
+  gsid: D7igaGAAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1016/j.ostima.2024.100233
+  title: Investigating the utility of HR-pQCT for the assessment of joint space and
+    bone mineral density in hand osteoarthritis
+  authors:
+  - Michael T. Kuczynski
+  - Justin J. Tse
+  - Gurpreet Dhaliwal
+  - Christina Hiscox
+  - Martina Vergouwen
+  - Neil J. White
+  - Sarah L. Manske
+  publisher: Osteoarthritis Imaging
+  date: '2024-09-01'
+  link: https://doi.org/gt7h5r
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pubmed:39548810
+  title: "Subchondral Bone Degeneration and Pathology 3-15\u2009Years Following Ankle\
+    \ Sprain Injury in Adolescent Sport."
   authors:
   - Kirsten N Bott
-  - Bryn E Matheson
-  - Ainsley C J Smith
+  - Michael T Kuczynski
+  - Oluwatoyosi B A Owoeye
+  - Jacob L Jaremko
+  - Koren E Roach
+  - Jean-Michel Galarneau
+  - Carolyn A Emery
+  - Sarah L Manske
+  publisher: Foot & ankle international
+  date: '2024-11-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39548810
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39547428
+  title: "Detecting new erosions in rheumatoid arthritis over one year\_-\_Radiography\
+    \ and high-resolution computed tomography of finger joints."
+  authors:
+  - Josephine Therkildsen
+  - Rasmus Klose-Jensen
+  - "Mathias H\xE4nel"
+  - Bente L Langdahl
+  - Jesper S Thomsen
+  - Sarah L Manske
+  - Kresten K Keller
+  - Ellen-Margrethe Hauge
+  publisher: Joint bone spine
+  date: '2024-11-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39547428
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38784224
+  title: Evaluating high-resolution computed tomography derived 3-D joint space metrics
+    of the metacarpophalangeal joints between rheumatoid arthritis and age- and sex-matched
+    control participants.
+  authors:
   - Justin J Tse
+  - Dani Contreras
+  - Peter Salat
+  - Claire E H Barber
+  - Glen S Hazlewood
+  - Cheryl Barnabe
+  - Chris Penney
+  - Ahmed Ibrahem
+  - Dianne Mosher
+  - Sarah L Manske
+  publisher: Frontiers in medicine
+  date: '2024-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38784224
+  term: Manske SL[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38630884
+  title: 'Letter to the Editor regarding "Opportunistic screening with CT: comparison
+    of phantomless BMD calibration methods".'
+  authors:
   - Steven K Boyd
   - Sarah L Manske
-  publisher: Diagnostics (Basel, Switzerland)
-  date: '2023-08-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37568935
+  - Bryn Matheson
+  - Ainsley Smith
+  - Kirsten Bott
+  publisher: 'Journal of bone and mineral research : the official journal of the American
+    Society for Bone and Mineral Research'
+  date: '2024-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38630884
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -334,24 +1695,6 @@
   publisher: BMC medical imaging
   date: '2022-11-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36348287
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:36251648
-  title: Internal calibration for opportunistic computed tomography muscle density
-    analysis.
-  authors:
-  - Ainsley C J Smith
-  - Justin J Tse
-  - Tadiwa H Waungana
-  - Kirsten N Bott
-  - Michael T Kuczynski
-  - Andrew S Michalski
-  - Steven K Boyd
-  - Sarah L Manske
-  publisher: PloS one
-  date: '2022-10-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36251648
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -379,140 +1722,22 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:35895080
-  title: Hip Fractures in Older Adults Are Associated With the Low Density Bone Phenotype
-    and Heterogeneous Deterioration of Bone Microarchitecture.
-  authors:
-  - Danielle E Whittier
-  - Sarah L Manske
-  - Emma Billington
-  - Richard Ea Walker
-  - Prism S Schneider
-  - Lauren A Burt
-  - David A Hanley
-  - Steven K Boyd
-  publisher: 'Journal of bone and mineral research : the official journal of the American
-    Society for Bone and Mineral Research'
-  date: '2022-08-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35895080
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35467564
-  title: Assessing the Sensitivity of Dual-Energy Computed Tomography 3-Material Decomposition
-    for the Detection of Gout.
-  authors:
-  - Justin J Tse
-  - Douglas A Kondro
-  - Michael T Kuczynski
-  - Yves Pauchard
-  - Andrea Veljkovic
-  - David W Holdsworth
-  - Viviane Frasson
-  - Sarah L Manske
-  - Paul MacMullan
-  - Peter Salat
-  publisher: Investigative radiology
-  date: '2022-04-21'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35467564
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35290479
-  title: Diagnostic accuracy of a dual-energy computed tomography-based post-processing
-    method for imaging bone marrow edema following an acute ligamentous knee injury.
-  authors:
-  - Chantal M J de Bakker
-  - Tushar Peedikayil
-  - Richard E A Walker
-  - Nathan J Neeteson
-  - Sarah L Manske
-  - Steven K Boyd
-  publisher: Skeletal radiology
-  date: '2022-03-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35290479
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35065447
+- id: doi:10.1016/j.jmbbm.2022.105091
   title: Independent changes in bone mineralized and marrow soft tissues following
     acute knee injury require dual-energy or high-resolution computed tomography for
-    accurate assessment of bone mineral density and stiffness.
+    accurate assessment of bone mineral density and stiffness
   authors:
-  - Chantal M J de Bakker
-  - Nikolas K Knowles
-  - Richard E A Walker
-  - Sarah L Manske
-  - Steven K Boyd
-  publisher: Journal of the mechanical behavior of biomedical materials
-  date: '2022-01-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35065447
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:34353138
-  title: 'Health-Related Outcomes 3-15 Years Following Ankle Sprain Injury in Youth
-    Sport: What Does the Future Hold?'
-  authors:
-  - Oluwatoyosi B A Owoeye
-  - Jackie L Whittaker
-  - Clodagh M Toomey
-  - "Anu M R\xE4is\xE4nen"
-  - Jacob L Jaremko
-  - Lisa C Carlesso
-  - Sarah L Manske
-  - Carolyn A Emery
-  publisher: Foot & ankle international
-  date: '2021-08-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34353138
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:34292468
-  title: Advancements in Osteoporosis Imaging, Screening, and Study of Disease Etiology.
-  authors:
-  - Justin J Tse
-  - Ainsley C J Smith
-  - Michael T Kuczynski
-  - Daphne A Kaketsis
-  - Sarah L Manske
-  publisher: Current osteoporosis reports
-  date: '2021-07-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34292468
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:34084552
-  title: Locomotory behaviour of early tetrapods from Blue Beach, Nova Scotia, revealed
-    by novel microanatomical analysis.
-  authors:
-  - Kendra I Lennie
-  - Sarah L Manske
-  - Chris F Mansky
-  - Jason S Anderson
-  publisher: Royal Society open science
-  date: '2021-05-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34084552
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:33775211
-  title: Heterogenous bone response to biologic DMARD therapies in rheumatoid arthritis
-    patients and their relationship to functional indices.
-  authors:
-  - S C Brunet
-  - J J Tse
-  - M T Kuczynski
-  - K Engelke
-  - S K Boyd
-  - C Barnabe
-  - S L Manske
-  publisher: Scandinavian journal of rheumatology
-  date: '2021-03-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33775211
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  - Chantal M.J. de Bakker
+  - Nikolas K. Knowles
+  - Richard E.A. Walker
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2022-03-01'
+  link: https://doi.org/gt5tk8
+  orcid: 0000-0003-0888-9556
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pubmed:33606278
   title: A quantitative assessment of dual energy computed tomography-based material
     decomposition for imaging bone marrow edema associated with acute knee injury.
@@ -529,126 +1754,6 @@
   publisher: Medical physics
   date: '2021-03-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33606278
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:33102498
-  title: Multi-Modal Imaging to Assess the Interaction Between Inflammation and Bone
-    Damage Progression in Inflammatory Arthritis.
-  authors:
-  - Justin J Tse
-  - Scott C Brunet
-  - Peter Salat
-  - Glen S Hazlewood
-  - Cheryl Barnabe
-  - Sarah L Manske
-  publisher: Frontiers in medicine
-  date: '2020-09-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33102498
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32934121
-  title: Reliability and Change in Erosion Measurements by High-resolution Peripheral
-    Quantitative Computed Tomography in a Longitudinal Dataset of Rheumatoid Arthritis
-    Patients.
-  authors:
-  - Stephanie Finzel
-  - Sarah L Manske
-  - Cheryl C M Barnabe
-  - Andrew J Burghardt
-  - Hubert Marotte
-  - Andrea Scharmga
-  - Ellen-Margrethe Hauge
-  - Roland Chapurlat
-  - Klaus Engelke
-  - Xiaojuan Li
-  - Bente C J van Teeffelen
-  - Philip G Conaghan
-  - Kathryn S Stok
-  publisher: The Journal of rheumatology
-  date: '2020-09-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32934121
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32896669
-  title: 'Bone changes in early inflammatory arthritis assessed with High-Resolution
-    peripheral Quantitative Computed Tomography (HR-pQCT): A 12-month cohort study.'
-  authors:
-  - Scott Cameron Brunet
-  - Stephanie Finzel
-  - Klaus Engelke
-  - Steven Kyle Boyd
-  - Cheryl Barnabe
-  - Sarah Lynn Manske
-  publisher: Joint bone spine
-  date: '2020-09-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32896669
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32766262
-  title: High-Resolution Peripheral Quantitative Computed Tomography for Bone Evaluation
-    in Inflammatory Rheumatic Disease.
-  authors:
-  - Rasmus Klose-Jensen
-  - Justin J Tse
-  - Kresten Krarup Keller
-  - Cheryl Barnabe
-  - Andrew J Burghardt
-  - Stephanie Finzel
-  - Lai-Shan Tam
-  - Ellen-Margrethe Hauge
-  - Kathryn S Stok
-  - Sarah L Manske
-  publisher: Frontiers in medicine
-  date: '2020-07-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32766262
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32264872
-  title: The utility of multi-stack alignment and 3D longitudinal image registration
-    to assess bone remodeling in rheumatoid arthritis patients from second generation
-    HR-pQCT scans.
-  authors:
-  - Scott C Brunet
-  - Michael T Kuczynski
-  - Jennifer L Bhatla
-  - Sophie Lemay
-  - Yves Pauchard
-  - Peter Salat
-  - Cheryl Barnabe
-  - Sarah L Manske
-  publisher: BMC medical imaging
-  date: '2020-04-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32264872
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32190559
-  title: Consensus approach for 3D joint space width of metacarpophalangeal joints
-    of rheumatoid arthritis patients using high-resolution peripheral quantitative
-    computed tomography.
-  authors:
-  - Kathryn S Stok
-  - Andrew J Burghardt
-  - Stephanie Boutroy
-  - Michiel P H Peters
-  - Sarah L Manske
-  - Vincent Stadelmann
-  - Nicolas Vilayphiou
-  - Joop P van den Bergh
-  - Piet Geusens
-  - Xiaojuan Li
-  - Hubert Marotte
-  - Bert van Rietbergen
-  - Steven K Boyd
-  - Cheryl Barnabe
-  publisher: Quantitative imaging in medicine and surgery
-  date: '2020-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32190559
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -672,124 +1777,19 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:30658879
-  title: The Correction of Systematic Error due to Plaster and Fiberglass Casts on
-    HR-pQCT Bone Parameters Measured In Vivo at the Distal Radius.
+- id: pubmed:29363165
+  title: 'Lower Bone Density, Impaired Microarchitecture, and Strength Predict Future
+    Fragility Fracture in Postmenopausal Women: 5-Year Follow-up of the Calgary CaMos
+    Cohort.'
   authors:
-  - Danielle E Whittier
+  - Lauren A Burt
   - Sarah L Manske
+  - David A Hanley
   - Steven K Boyd
-  - Prism S Schneider
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2018-11-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30658879
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30647172
-  title: 'The SPECTRA Collaboration OMERACT Working Group: Construct Validity of Joint
-    Space Outcomes with High-resolution Peripheral Quantitative Computed Tomography.'
-  authors:
-  - Sarah L Manske
-  - Scott C Brunet
-  - Stephanie Finzel
-  - Kathryn S Stok
-  - Philip G Conaghan
-  - Steven K Boyd
-  - Cheryl Barnabe
-  publisher: The Journal of rheumatology
-  date: '2019-01-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30647172
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30201250
-  title: Harmonizing finite element modelling for non-invasive strength estimation
-    by high-resolution peripheral quantitative computed tomography.
-  authors:
-  - Danielle E Whittier
-  - Sarah L Manske
-  - Douglas P Kiel
-  - Mary Bouxsein
-  - Steven K Boyd
-  publisher: Journal of biomechanics
-  date: '2018-08-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30201250
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30115589
-  title: A study of the relationship between meniscal injury and bone microarchitecture
-    in ACL reconstructed knees.
-  authors:
-  - Andres Kroker
-  - Sarah L Manske
-  - Nicholas Mohtadi
-  - Steven K Boyd
-  publisher: The Knee
-  date: '2018-08-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30115589
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29785933
-  title: 'A Comparison of Peripheral Imaging Technologies for Bone and Muscle Quantification:
-    A Review of Segmentation Techniques.'
-  authors:
-  - Andy Kin On Wong
-  - Sarah Lynn Manske
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2018-04-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29785933
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29678623
-  title: Differences in subchondral bone plate and cartilage thickness between women
-    with anterior cruciate ligament reconstructions and uninjured controls.
-  authors:
-  - J L Bhatla
-  - A Kroker
-  - S L Manske
-  - C A Emery
-  - S K Boyd
-  publisher: Osteoarthritis and cartilage
-  date: '2018-04-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29678623
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29526780
-  title: 'Subchondral bone microarchitecture in ACL reconstructed knees of young women:
-    A comparison with contralateral and uninjured control knees.'
-  authors:
-  - Andres Kroker
-  - Jennifer L Bhatla
-  - Carolyn A Emery
-  - Sarah L Manske
-  - Steven K Boyd
-  publisher: Bone
-  date: '2018-03-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29526780
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:28874773
-  title: Cortical and trabecular morphology is altered in the limb bones of mice artificially
-    selected for faster skeletal growth.
-  authors:
-  - Saira Farooq
-  - Shannon Leussink
-  - Leah M Sparrow
-  - Marta Marchini
-  - Hayley M Britz
-  - Sarah L Manske
-  - Campbell Rolian
-  publisher: Scientific reports
-  date: '2017-09-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28874773
+  publisher: 'Journal of bone and mineral research : the official journal of the American
+    Society for Bone and Mineral Research'
+  date: '2018-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29363165
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -809,39 +1809,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:28039095
-  title: Quantitative in vivo assessment of bone microarchitecture in the human knee
-    using HR-pQCT.
-  authors:
-  - Andres Kroker
-  - Ying Zhu
-  - Sarah L Manske
-  - Rhamona Barber
-  - Nicholas Mohtadi
-  - Steven K Boyd
-  publisher: Bone
-  date: '2016-12-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28039095
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:27698109
-  title: Determining Metacarpophalangeal Flexion Angle Tolerance for Reliable Volumetric
-    Joint Space Measurements by High-resolution Peripheral Quantitative Computed Tomography.
-  authors:
-  - Stephanie Tom
-  - Mark Frayne
-  - Sarah L Manske
-  - Andrew J Burghardt
-  - Kathryn S Stok
-  - Steven K Boyd
-  - Cheryl Barnabe
-  publisher: The Journal of rheumatology
-  date: '2016-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27698109
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:30035060
   title: "Cartilage imaging of a rabbit knee using dual-energy X-ray microscopy and\
     \ 1.0\_T and\_9.4\_T magnetic resonance imaging."
@@ -852,35 +1819,6 @@
   publisher: Journal of orthopaedic translation
   date: '2015-08-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30035060
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:26079995
-  title: Human trabecular bone microarchitecture can be assessed independently of
-    density with second generation HR-pQCT.
-  authors:
-  - Sarah L Manske
-  - Ying Zhu
-  - Clara Sandino
-  - Steven K Boyd
-  publisher: Bone
-  date: '2015-06-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26079995
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:25863722
-  title: 'Bilateral Asymmetry of Radius and Tibia Bone Macroarchitecture and Microarchitecture:
-    A High-Resolution Peripheral Quantitative Computed Tomography Study.'
-  authors:
-  - Erin M Hildebrandt
-  - Sarah L Manske
-  - David A Hanley
-  - Steven K Boyd
-  publisher: 'Journal of clinical densitometry : the official journal of the International
-    Society for Clinical Densitometry'
-  date: '2015-04-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25863722
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -901,310 +1839,6 @@
   term: Manske SL[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:24780879
-  title: Embryonic stem cell therapy improves bone quality in a model of impaired
-    fracture healing in the mouse; tracked temporally using in vivo micro-CT.
-  authors:
-  - J T Taiani
-  - H R Buie
-  - G M Campbell
-  - S L Manske
-  - R J Krawetz
-  - D E Rancourt
-  - S K Boyd
-  - J R Matyas
-  publisher: Bone
-  date: '2014-04-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24780879
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23976804
-  title: Increasing the Number of Unloading/Reambulation Cycles does not Adversely
-    Impact Body Composition and Lumbar Bone Mineral Density but Reduces Tissue Sensitivity.
-  authors:
-  - Shikha Gupta
-  - Sarah L Manske
-  - Stefan Judex
-  publisher: Acta astronautica
-  date: '2013-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23976804
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23125100
-  title: Assessment of the efficacy of MRI for detection of changes in bone morphology
-    in a mouse model of bone injury.
-  authors:
-  - May A Taha
-  - Sarah L Manske
-  - Erika Kristensen
-  - Jaymi T Taiani
-  - Roman Krawetz
-  - Ying Wu
-  - Dragana Ponjevic
-  - John R Matyas
-  - Steven K Boyd
-  - Derrick E Rancourt
-  - Jeff F Dunn
-  publisher: 'Journal of magnetic resonance imaging : JMRI'
-  date: '2012-11-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23125100
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23074384
-  title: 'Separating Fluid Shear Stress from Acceleration during Vibrations in Vitro:
-    Identification of Mechanical Signals Modulating the Cellular Response.'
-  authors:
-  - Gunes Uzer
-  - Sarah L Manske
-  - M Ete Chan
-  - Fu-Pen Chiang
-  - Clinton T Rubin
-  - Mary D Frame
-  - Stefan Judex
-  publisher: Cellular and molecular bioengineering
-  date: '2012-05-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23074384
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:22590551
-  title: High-frequency, low-magnitude vibration does not prevent bone loss resulting
-    from muscle disuse in mice following botulinum toxin injection.
-  authors:
-  - Sarah L Manske
-  - Craig A Good
-  - Ronald F Zernicke
-  - Steven K Boyd
-  publisher: PloS one
-  date: '2012-05-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22590551
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:22119485
-  title: Skim milk powder enhances trabecular bone architecture compared with casein
-    or whey in diet-induced obese rats.
-  authors:
-  - Aviv Fried
-  - Sarah L Manske
-  - Lindsay K Eller
-  - Caeley Lorincz
-  - Raylene A Reimer
-  - Ronald F Zernicke
-  publisher: Nutrition (Burbank, Los Angeles County, Calif.)
-  date: '2011-11-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22119485
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:21186027
-  title: Vertical ground reaction forces diminish in mice after botulinum toxin injection.
-  authors:
-  - Sarah L Manske
-  - Steven K Boyd
-  - Ronald F Zernicke
-  publisher: Journal of biomechanics
-  date: '2010-12-24'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21186027
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:20967431
-  title: Muscle changes can account for bone loss after botulinum toxin injection.
-  authors:
-  - Sarah L Manske
-  - Steven K Boyd
-  - Ronald F Zernicke
-  publisher: Calcified tissue international
-  date: '2010-10-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20967431
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:19853070
-  title: Muscle and bone follow similar temporal patterns of recovery from muscle-induced
-    disuse due to botulinum toxin injection.
-  authors:
-  - Sarah L Manske
-  - Steven K Boyd
-  - Ronald F Zernicke
-  publisher: Bone
-  date: '2009-10-21'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19853070
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23015892
-  title: 'Bone health: part 2, physical activity.'
-  authors:
-  - Sarah L Manske
-  - Caeley R Lorincz
-  - Ron F Zernicke
-  publisher: Sports health
-  date: '2009-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23015892
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:19524929
-  title: 'During sideways falls proximal femur fractures initiate in the superolateral
-    cortex: evidence from high-speed video of simulated fractures.'
-  authors:
-  - Peter M de Bakker
-  - Sarah L Manske
-  - Vincent Ebacher
-  - Thomas R Oxland
-  - Peter A Cripton
-  - Pierre Guy
-  publisher: Journal of biomechanics
-  date: '2009-06-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19524929
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23015881
-  title: 'Bone health: part 1, nutrition.'
-  authors:
-  - Caeley Lorincz
-  - Sarah L Manske
-  - Ron Zernicke
-  publisher: Sports health
-  date: '2009-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23015881
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:18661091
-  title: Cortical and trabecular bone in the femoral neck both contribute to proximal
-    femur failure load prediction.
-  authors:
-  - S L Manske
-  - T Liu-Ambrose
-  - D M L Cooper
-  - S Kontulainen
-  - P Guy
-  - B B Forster
-  - H A McKay
-  publisher: 'Osteoporosis international : a journal established as result of cooperation
-    between the European Foundation for Osteoporosis and the National Osteoporosis
-    Foundation of the USA'
-  date: '2008-07-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18661091
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:17268944
-  title: 'Tibial geometry is associated with failure load ex vivo: a MRI, pQCT and
-    DXA study.'
-  authors:
-  - D Liu
-  - S L Manske
-  - S A Kontulainen
-  - C Tang
-  - P Guy
-  - T R Oxland
-  - H A McKay
-  publisher: 'Osteoporosis international : a journal established as result of cooperation
-    between the European Foundation for Osteoporosis and the National Osteoporosis
-    Foundation of the USA'
-  date: '2007-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/17268944
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:16847586
-  title: Femoral neck cortical geometry measured with magnetic resonance imaging is
-    associated with proximal femur strength.
-  authors:
-  - S L Manske
-  - T Liu-Ambrose
-  - P M de Bakker
-  - D Liu
-  - S Kontulainen
-  - P Guy
-  - T R Oxland
-  - H A McKay
-  publisher: 'Osteoporosis international : a journal established as result of cooperation
-    between the European Foundation for Osteoporosis and the National Osteoporosis
-    Foundation of the USA'
-  date: '2006-07-18'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/16847586
-  term: Manske SL[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: doi:10.1002/rco2.70004
-  title: 'Muscle Loss Is Prevalent and Severe in the ICU: An Analysis of Clinically
-    Acquired CT Images'
-  authors:
-  - "Ainsley\_C.\_J. Smith"
-  - "Brandon\_M. Hisey"
-  - "Chel\_Hee Lee"
-  - "Christopher\_J. Grant"
-  - "Richard\_E.\_A. Walker"
-  - "Kevin\_J. Solverson"
-  - "Kirsten\_N. Bott"
-  - "Christopher\_J. Doig"
-  - "Sarah\_L. Manske"
-  publisher: JCSM Communications
-  date: '2025-01-01'
-  link: https://doi.org/g9d7r8
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmr/zjae163
-  title: The quantification of bone mineral density using photon counting computed
-    tomography and its implications for detecting bone remodeling
-  authors:
-  - Jilmen Quintiens
-  - Walter Coudyzer
-  - Melissa Bevers
-  - Evie Vereecke
-  - Joop P van den Bergh
-  - Sarah L Manske
-  - G Harry van Lenthe
-  publisher: Journal of Bone and Mineral Research
-  date: '2024-10-04'
-  link: https://doi.org/g7dt4t
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ostima.2024.100233
-  title: Investigating the utility of HR-pQCT for the assessment of joint space and
-    bone mineral density in hand osteoarthritis
-  authors:
-  - Michael T. Kuczynski
-  - Justin J. Tse
-  - Gurpreet Dhaliwal
-  - Christina Hiscox
-  - Martina Vergouwen
-  - Neil J. White
-  - Sarah L. Manske
-  publisher: Osteoarthritis Imaging
-  date: '2024-09-01'
-  link: https://doi.org/gt7h5r
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jocd.2024.101504
-  title: Accuracy of Volumetric Bone Mineral Density Measurement in Weight Bearing,
-    Cone Beam Computed Tomography
-  authors:
-  - Tadiwa H. Waungana
-  - Keven Qiu
-  - Justin J. Tse
-  - Donald D. Anderson
-  - Carolyn A. Emery
-  - Steven K. Boyd
-  - Sarah L. Manske
-  publisher: Journal of Clinical Densitometry
-  date: '2024-07-01'
-  link: https://doi.org/gt5tks
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-4510938/v1
   title: 'Muscle loss is prevalent and severe in the ICU: A Canadian multi-centre
     study analyzing clinically acquired CT images'
@@ -1221,134 +1855,6 @@
   publisher: Springer Science and Business Media LLC
   date: '2024-06-25'
   link: https://doi.org/gt7h5s
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jmbbm.2022.105091
-  title: Independent changes in bone mineralized and marrow soft tissues following
-    acute knee injury require dual-energy or high-resolution computed tomography for
-    accurate assessment of bone mineral density and stiffness
-  authors:
-  - Chantal M.J. de Bakker
-  - Nikolas K. Knowles
-  - Richard E.A. Walker
-  - Sarah L. Manske
-  - Steven K. Boyd
-  publisher: Journal of the Mechanical Behavior of Biomedical Materials
-  date: '2022-03-01'
-  link: https://doi.org/gt5tk8
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11914-021-00699-3
-  title: Advancements in Osteoporosis Imaging, Screening, and Study of Disease Etiology
-  authors:
-  - Justin J. Tse
-  - Ainsley C. J. Smith
-  - Michael T. Kuczynski
-  - Daphne A. Kaketsis
-  - Sarah L. Manske
-  publisher: Current Osteoporosis Reports
-  date: '2021-07-22'
-  link: https://doi.org/gmmtnn
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3899/jrheum.191391
-  title: Reliability and Change in Erosion Measurements by High-resolution Peripheral
-    Quantitative Computed Tomography in a Longitudinal Dataset of Rheumatoid Arthritis
-    Patients
-  authors:
-  - Stephanie Finzel
-  - Sarah L. Manske
-  - Cheryl C.M. Barnabe
-  - Andrew J. Burghardt
-  - Hubert Marotte
-  - Andrea Scharmga
-  - Ellen-Margrethe Hauge
-  - Roland Chapurlat
-  - Klaus Engelke
-  - Xiaojuan Li
-  - Bente C.J. van Teeffelen
-  - Philip G. Conaghan
-  - Kathryn S. Stok
-  publisher: The Journal of Rheumatology
-  date: '2020-09-15'
-  link: https://doi.org/gt7h5t
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.2.14575/v3
-  title: The Utility of Multi-Stack Alignment and 3D Longitudinal Image Registration
-    to Assess Bone Remodeling in Rheumatoid Arthritis Patients from Second Generation
-    HR-pQCT Scans
-  authors:
-  - Scott C Brunet
-  - Michael T Kuczynski
-  - Jennifer L Bhatla
-  - Sophie Lemay
-  - Yves Pauchard
-  - Peter Salat
-  - Cheryl Barnabe
-  - Sarah Lynn Manske
-  publisher: Springer Science and Business Media LLC
-  date: '2020-03-31'
-  link: https://doi.org/gt7h5v
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.2.14575/v2
-  title: The Utility of Multi-Stack Alignment and 3D Longitudinal Image Registration
-    to Assess Bone Remodeling in Rheumatoid Arthritis Patients from Second Generation
-    HR-pQCT Scans
-  authors:
-  - Scott C Brunet
-  - Michael T Kuczynski
-  - Jennifer L Bhatla
-  - Sophie Lemay
-  - Yves Pauchard
-  - Peter Salat
-  - Cheryl Barnabe
-  - Sarah Lynn Manske
-  publisher: Springer Science and Business Media LLC
-  date: '2020-03-23'
-  link: https://doi.org/gt7h5w
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3899/jrheum.180870
-  title: 'The SPECTRA Collaboration OMERACT Working Group: Construct Validity of Joint
-    Space Outcomes with High-resolution Peripheral Quantitative Computed Tomography'
-  authors:
-  - Sarah L. Manske
-  - Scott C. Brunet
-  - Stephanie Finzel
-  - Kathryn S. Stok
-  - Philip G. Conaghan
-  - Steven K. Boyd
-  - Cheryl Barnabe
-  publisher: The Journal of Rheumatology
-  date: '2019-01-15'
-  link: https://doi.org/ggn6xg
-  orcid: 0000-0003-0888-9556
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.2.14575/v1
-  title: The Utility of Multi-Stack Alignment and 3D Longitudinal Image Registration
-    to Assess Bone Remodeling in Rheumatoid Arthritis Patients from Second Generation
-    HR-pQCT Scans
-  authors:
-  - Scott C Brunet
-  - Michael T Kuczynski
-  - Jennifer L Bhatla
-  - Sophie Lemay
-  - Yves Pauchard
-  - Peter Salat
-  - Cheryl Barnabe
-  - Sarah Lynn Manske
-  publisher: Springer Science and Business Media LLC
-  date: '2019-09-18'
-  link: https://doi.org/gt7h5x
   orcid: 0000-0003-0888-9556
   plugin: orcid.py
   file: orcid.yaml
