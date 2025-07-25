@@ -138,7 +138,7 @@ for index, source in enumerate(sources):
     plugin = get_safe(source, "plugin", "")
     print(source)
 
-    if _id and plugin != "google-scholar":
+    if _id and plugin != "google-scholar.py":
         log("Using Manubot to generate citation", 1)
 
         try:
