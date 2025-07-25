@@ -34,6 +34,7 @@ def main(entry):
         return get_safe(GoogleSearch(params).get_dict(), "articles", [])
 
     response = query(_id)
+    print(response)
 
     # list of sources to return
     sources = []
