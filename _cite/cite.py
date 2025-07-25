@@ -135,7 +135,9 @@ for index, source in enumerate(sources):
     _id = get_safe(source, "id", "").strip()
 
     # Manubot doesn't work without an id
-    if _id:
+    plugin = get_safe(source, "plugin", "")
+
+    if _id and plugin != "google-scholar.py"
         log("Using Manubot to generate citation", 1)
 
         try:
@@ -156,7 +158,9 @@ for index, source in enumerate(sources):
     else:
         # Use the plugin-supplied metadata directly
         citation = {}
-        
+
+
+
     # preserve fields from input source, overriding existing fields
     citation.update(source)
 
