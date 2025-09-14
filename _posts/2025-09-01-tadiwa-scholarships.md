@@ -1,6 +1,6 @@
 ---
 title: Tadiwa gets a trio of awards for his PhD!
-image: images/blog/Yousif_Defense.png
+image: images/blog/tadiwa.png
 author: Manske Lab
 tags:
   - awards

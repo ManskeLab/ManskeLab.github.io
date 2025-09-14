@@ -25,7 +25,7 @@ nav:
 
 {%
   include figure.html
-  image="images/album/2025-01-hike-squad.jpg"
+  image="images/album/2025-08-hike-squad.jpg"
   caption="Lab hikes rock (pun intended)"
 %}
 
