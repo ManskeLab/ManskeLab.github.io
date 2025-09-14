@@ -13,6 +13,24 @@ nav:
 
 {%
   include figure.html
+  image="images/album/2025-08-hike-group-photo.jpg"
+  caption="2025 Lab hike at Chester Lake!"
+%}
+
+{%
+  include figure.html
+  image="images/album/2025-08-hike-rocks.jpg"
+  caption="Feeling on top of the world on the lab hike!"
+%}
+
+{%
+  include figure.html
+  image="images/album/2025-01-hike-squad.jpg"
+  caption="Lab hikes rock (pun intended)"
+%}
+
+{%
+  include figure.html
   image="images/album/2025-01-xski_3.jpg"
   caption="Cross country ski day 2025"
 %}
