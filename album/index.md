@@ -13,13 +13,13 @@ nav:
 
 {%
   include figure.html
-  image="images/album/2025-12-christmas-pphoto.JPG"
+  image="images/album/2025-12-christmas-photo.JPG"
   caption="The Manske Lab at the 2025 McCaig Christmas Party"
 %}
 
 {%
   include figure.html
-  image="images/album/2025-12-christmas-pphoto.JPG"
+  image="images/album/2025-12-christmas-photo-home-alone.JPG"
   caption="Manske Lab - Home Alone Edition"
 %}
 
