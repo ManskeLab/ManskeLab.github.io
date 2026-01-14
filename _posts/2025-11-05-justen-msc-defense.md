@@ -6,5 +6,5 @@ tags:
   - defense
 ---
 
-Congratulations to Justen Saini for successfully defending his MSc titled "Super-Resolution of Cone Beam Computed Tomography: Applications in Bone Analysis for Rheumatoid Arthritis". Yousif has been so helpful with everything computer-related, helping set students up with ML-based segmentations and GitHub, and setting the website up. We wish Yousif all the best as he pursues his Ph.D. at Concordia University this fall!
-
+Congratulations to Justen for his successful MSc defense! His thesis was titled "Is It Worth the RASL? Investigating Scapholunate Interosseous Ligament Reconstructive Surgeries and Injuries Under Load Using Weight-Bearing Computed Tomography".
+Justen is staying with the Manske Lab for a PhD! He will be continuing his graduate studies with Dr. Sarah Manske and Dr. Koren Roach in January 2026!

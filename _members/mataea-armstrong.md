@@ -1,7 +1,7 @@
 ---
 name: Mataea Armstrong
 image: images/headshots/Mataea.jpg
-description: Master's Student
+description: PhD Student
 role: phd
 links:
   
