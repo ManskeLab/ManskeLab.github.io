@@ -94,28 +94,32 @@ Newest → Oldest
 
 {% assign photos = photos | push:
   "images/album/2021-01-climbing.jpeg||Bouldering 2021" %}
-
 {%- comment -%}
-AUTO-GENERATED COLUMNS
+AUTO-GENERATED COLUMNS (GitHub Pages safe)
 {%- endcomment -%}
 
-{% capture col1 %}{% endcapture %}
-{% capture col2 %}{% endcapture %}
-
+{% capture col1 %}
 {% for photo in photos %}
   {% assign parts = photo | split: "||" %}
   {% assign image = parts[0] %}
   {% assign caption = parts[1] %}
 
-  {% capture fig %}
-    {% include figure.html image=image caption=caption %}
-  {% endcapture %}
-
   {% if forloop.index0 | modulo: 2 == 0 %}
-    {% capture col1 %}{{ col1 }}{{ fig }}{% endcapture %}
-  {% else %}
-    {% capture col2 %}{{ col2 }}{{ fig }}{% endcapture %}
+    {% include figure.html image=image caption=caption %}
   {% endif %}
 {% endfor %}
+{% endcapture %}
+
+{% capture col2 %}
+{% for photo in photos %}
+  {% assign parts = photo | split: "||" %}
+  {% assign image = parts[0] %}
+  {% assign caption = parts[1] %}
+
+  {% if forloop.index0 | modulo: 2 == 1 %}
+    {% include figure.html image=image caption=caption %}
+  {% endif %}
+{% endfor %}
+{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
