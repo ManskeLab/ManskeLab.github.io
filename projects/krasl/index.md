@@ -24,7 +24,7 @@ redirect_from:
 ## Methodology and Goals
 
 <p style="text-align: justify;">
-The research involves developing a reproducible workflow to measure carpal alignment and kinematics in WBCT-derived 3D models. By comparing measurements, the study assesses the biomechanical differences and similarities in carpal motion across different conditions, with potential applications in clinical diagnosis and treatment planning.
+This project involves developing a semi-automated workflow to measure carpal alignment and kinematics in WBCT-derived 3D models. By comparing measurements, this study will aim to discern the biomechanical differences and similarities in carpal motion across different conditions, including individuals with scapholunate interosseous ligament (SLIL) injuries and following SLIL reconstruction. This work holds potential applications in clinical diagnosis, improving our understanding of the progression of wrist osteoarthritis, and surgical planning.
 </p>
 
 ---

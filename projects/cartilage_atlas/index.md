@@ -1,7 +1,7 @@
 ---
 title: Cartilage Atlas
-header: images/background.jpg
-footer: images/background.jpg
+header: images/projects/atlas_cartilage/animal_cartilage.png
+footer: images/projects/atlas_cartilage/thickness_maps.png
 header-dark: True
 footer-dark: True
 redirect_from:
@@ -17,8 +17,8 @@ redirect_from:
 ## Research Images
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="images/projects/atlas_cartilage/img1.png" alt="" style="width: 45%; height: auto; border-radius: 5px;">
-  <img src="images/projects/atlas_cartilage/img4.png" alt="" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="images/projects/atlas_cartilage/animal_cartilage.png" alt="" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="images/projects/atlas_cartilage/thickness_maps.png" alt="" style="width: 45%; height: auto; border-radius: 5px;">
 </div>
 
 ---
