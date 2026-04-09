@@ -1,7 +1,7 @@
 ---
 title: Cartilage Atlas
-header: images/projects/atlas_cartilage/animal_cartilage.png
-footer: images/projects/atlas_cartilage/thickness_maps.png
+header: images/background.jpg
+footer: images/background.jpg
 header-dark: True
 footer-dark: True
 redirect_from:
