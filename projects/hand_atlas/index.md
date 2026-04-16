@@ -5,10 +5,10 @@ footer: images/background.jpg
 header-dark: True
 footer-dark: True
 redirect_from:
-  - krasl
+  - hand_atlas
 ---
 
-<h1 style="text-align: center;">Assessing Carpal Alignment and Kinematics Using WBCT</h1>
+<h1 style="text-align: center;">Developing an Hand Atlas from Cone-Beam CT Images of Healthy Hands</h1>
 
 {% include section.html %}
 
@@ -24,7 +24,7 @@ redirect_from:
 ## Methodology and Goals
 
 <p style="text-align: justify;">
-The research involves developing a reproducible workflow to measure carpal alignment and kinematics in WBCT-derived 3D models. By comparing measurements, the study assesses the biomechanical differences and similarities in carpal motion across different conditions, with potential applications in clinical diagnosis and treatment planning.
+This project involves developing an atlas of a healthy hand from cone-beam computed tomography (CBCT) scans. To address this, a curriculum learning-based CycleGan framework was developed to super-resolve CBCT images to match high-resolution peripheral quantitative computed tomography (HR-pQCT) scans. This hand atlas was developed to support automated erosion detection and quantification for rheumatoid arthritis, serving as an anatomical prior in a deep learning pipeline (atlas-guided nnUNet).
 </p>
 
 ---
