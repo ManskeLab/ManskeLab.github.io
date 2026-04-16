@@ -17,8 +17,8 @@ redirect_from:
 ## Research Images
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="images/projects/atlas_cartilage/img2.png" alt="Animal Cartilage" style="width: 45%; height: auto; border-radius: 5px;">
-  <img src="images/projects/atlas_cartilage/img3.png" alt="Thickness and Modulus Mapping" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="/images/projects/atlas_cartilage/img2.png" alt="Animal Cartilage" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="/images/projects/atlas_cartilage/img3.png" alt="Thickness and Modulus Mapping" style="width: 45%; height: auto; border-radius: 5px;">
 </div>
 
 ---

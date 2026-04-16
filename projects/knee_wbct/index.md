@@ -8,7 +8,7 @@ redirect_from:
   - knee_wbct
 ---
 
-<p style="text-align: left;">Assessing Carpal Alignment and Kinematics Using WBCT</p>
+<p style="text-align: left;">Investigating The Relationship Between Bone and Joint Parameters in Knee Osteoarthritis</p>
 
 {% include section.html %}
 
@@ -17,8 +17,8 @@ redirect_from:
 ## Research Images
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="images/projects/knee_wbct/img1.png" alt="Joint Space Width Mapping" style="width: 45%; height: auto; border-radius: 5px;">
-  <img src="images/projects/krasl/img4.png" alt="Kinematics Analysis" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="/images/projects/knee_wbct/img1.png" alt="Joint Space Width Mapping" style="width: 45%; height: auto; border-radius: 5px;">
+  <img src="/images/projects/knee_wbct/img1.png" alt="Joint Space Width Mapping" style="width: 45%; height: auto; border-radius: 5px;">
 </div>
 
 ---
@@ -26,7 +26,7 @@ redirect_from:
 ## Methodology and Goals
 
 <p style="text-align: justify;">
-Test Input Text
+Under Construction!
 </p>
 
 ---
