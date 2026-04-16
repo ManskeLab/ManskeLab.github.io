@@ -5,7 +5,7 @@ footer: images/background.jpg
 header-dark: True
 footer-dark: True
 redirect_from:
-  - atlas_cartilage
+  - cartilage_atlas
 ---
 
 <p style="text-align: left;">Atlas of Articular Cartilage: Structural and functional comparison across species</p>

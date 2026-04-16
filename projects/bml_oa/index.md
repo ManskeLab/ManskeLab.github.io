@@ -5,7 +5,7 @@ footer: images/background.jpg
 header-dark: True
 footer-dark: True
 redirect_from:
-  - krasl
+  - bml_oa
 ---
 
 <h1 style="text-align: center;">Assessing Carpal Alignment and Kinematics Using WBCT</h1>
