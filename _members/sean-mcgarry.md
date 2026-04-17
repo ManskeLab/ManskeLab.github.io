@@ -1,5 +1,5 @@
 ---
-name: Sam Sutherland
+name: Sean McGarry
 image: images/headshots/Sean.png
 description: Research Associate
 role: ra
