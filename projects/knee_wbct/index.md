@@ -1,5 +1,5 @@
 ---
-title: KRASL
+title: Utilizing Weight-Bearing CT to Investigate Knee Osteoarthritis
 header: images/background.jpg
 footer: images/background.jpg
 header-dark: True
