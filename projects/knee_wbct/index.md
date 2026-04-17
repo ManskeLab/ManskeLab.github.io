@@ -26,7 +26,7 @@ redirect_from:
 ## Methodology and Goals
 
 <p style="text-align: justify;">
-Under Construction!
+This project focuses on characterising and quantifying bone and joint features related to osteoarthritis (OA) development using weight-bearing computed tomography. Utilizing advanced medical imaging analysis, computational biomechanics, and statistical shape modelling approaches, this research will determine the structure-function relationships that exist, at the bone and joint level, across sex, age and OA status.  This work may inform personalized knee OA treatments and guide procedures like high tibial osteotomy realignment surgery, plus non-surgical approaches including joint bracing and muscle strengthening, that modify joint loads to produce beneficial bone and joint changes in knee OA.
 </p>
 
 ---
