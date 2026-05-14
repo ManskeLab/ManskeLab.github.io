@@ -14,5 +14,5 @@ Congratulations Tadiwa -- keep up all the great work! We are sure you and your g
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/blog/tadiwa_mrd_award.jpeg" alt="Tadiwa Award" style="width: 50%;" />
-  <img src="/images/blog/tadiwa_giraffe" alt="Tadiwa & Giraffe" style="width: 50%;" />
+  <img src="/images/blog/tadiwa_giraffe.jpg" alt="Tadiwa & Giraffe" style="width: 50%;" />
 </div>
