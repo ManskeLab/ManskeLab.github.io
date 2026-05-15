@@ -12,6 +12,6 @@ Congratulations to Tadiwa for winning the second place prize for his podium pres
 Congratulations Tadiwa -- keep up all the great work! We are sure you and your giraffe friend are excited about this award :)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  /images/blog/tadiwa_mrd_award.jpeg
-  /images/blog/tadiwa_giraffe.jpg
+  <img src="/images/blog/tadiwa_mrd_award.jpeg" alt="Tadiwa Award" style="width: 50%;" />
+  <img src="/images/blog/tadiwa_giraffe.jpg" alt="Tadiwa & Giraffe" style="width: 50%;" />
 </div>
