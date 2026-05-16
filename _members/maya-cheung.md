@@ -1,5 +1,5 @@
 ---
-name: Khiran Arumugam
+name: Maya Cheung
 image: images/headshots/Maya.jpg
 description: Summer Student
 role: phd
