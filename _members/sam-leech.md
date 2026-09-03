@@ -1,6 +1,6 @@
 ---
 name: Samantha Leech
-image: images/headshots/Sam.jpg
+image: images/headshots/SamL.jpg
 description: PhD 2024
 role: alumni
 group: alum

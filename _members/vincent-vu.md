@@ -1,7 +1,7 @@
 ---
 name: Vincent Vu
 image: images/headshots/Vincent.jpg
-description: Summer Student
+description: Undergraduate Research Student
 role: phd
 links:
   

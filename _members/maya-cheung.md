@@ -1,8 +1,9 @@
 ---
 name: Maya Cheung
 image: images/headshots/Maya.jpg
-description: Summer Student
-role: phd
+description: Summer Student (2026)
+role: alumni
+group: alum
 links:
   
 ---
